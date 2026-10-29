@@ -2831,6 +2831,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 #EXTINF:-1 tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-id="MBCDrama.ae" tvg-chno="10" tvg-country="AE" group-title="MBC",MBC Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 #EXTINF:-1 tvg-name="MBC Max" tvg-logo="https://i.imgur.com/A02CptP.png" tvg-id="MBCMax.ae" tvg-chno="11" tvg-country="AE" group-title="MBC",MBC Max Ⓢ
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53061
 http://37.122.156.107:4000/play/a07i/index.m3u8
 #EXTINF:-1 tvg-name="MBC Persia" tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-id="MBCPersia.ae" tvg-chno="12" tvg-country="AE" group-title="MBC",MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
@@ -3811,27 +3812,27 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVmZjcL.jpeg" tvg-id="itzplay.id" group-title="SPOTV",South Korea  ▎SPOTV Prime+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVmZjcL.jpeg" tvg-id="itzplay.id" group-title="Sports",South Korea  ▎SPOTV Prime+
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZcLJYtL.jpeg" tvg-id="itzplay.id" group-title="SPOTV", South Korea  ▎SPOTV Prime 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZcLJYtL.jpeg" tvg-id="itzplay.id" group-title="Sports", South Korea  ▎SPOTV Prime 2 
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G34ESlN.jpeg" tvg-id="itzplay.id" group-title="SPOTV", South Korea  ▎SPOTV Prime 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G34ESlN.jpeg" tvg-id="itzplay.id" group-title="Sports", South Korea  ▎SPOTV Prime 
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a8AlXOE.jpeg" tvg-id="itzplay.id" group-title="SPOTV", South Korea  ▎SPOTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8AlXOE.jpeg" tvg-id="itzplay.id" group-title="Sports", South Korea  ▎SPOTV 
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_replace_cookie
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/862RVQD.jpeg" tvg-id="itzplay.id" group-title="SPOTV", South Korea  ▎ SPOTV 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/862RVQD.jpeg" tvg-id="itzplay.id" group-title="Sports", South Korea  ▎ SPOTV 2 
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv2_replace_cookie
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g12NBOV.jpeg" tvg-id="itzplay.id" group-title="SPOTV", South Korea  ▎ SPOTV Golf+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g12NBOV.jpeg" tvg-id="itzplay.id" group-title="Sports", South Korea  ▎ SPOTV Golf+ 
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_golf_health_replace_cookie
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -3839,7 +3840,7 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health|User-Ag
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-#EXTINF:-1 tvg-logo="https://i.imgur.com/862RVQD.jpeg" tvg-id="itzplay.id" group-title="SPOTV", Philippines  ▎SPOTV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/862RVQD.jpeg" tvg-id="itzplay.id" group-title="Sports", Philippines  ▎SPOTV 2
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 
@@ -6789,22 +6790,6 @@ http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1028482.ts
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1247898.ts
 #EXTINF:-1 group-title="SPORT",SPOTV 2
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1247899.ts
-#EXTINF:-1 group-title="SPORT",TNT 1
-http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=578001&extension=ts&play_token=T45cX1yV1S
-#EXTINF:-1 group-title="SPORT",TNT 2
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=894978&extension=ts&play_token=1hJDcMuVpJ
-#EXTINF:-1 group-title="SPORT",TNT 3
-http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=577999&extension=ts&play_token=ZQGn4NLLbA
-#EXTINF:-1 group-title="SPORT",TNT 4
-http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=782732&extension=ts&play_token=5OcE11T1FB
-#EXTINF:-1 group-title="SPORT",TNT SPORT 1
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1311899&extension=ts&play_token=3Mv2z9CWkK
-#EXTINF:-1 group-title="SPORT",TNT SPORT 2
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1311900&extension=ts&play_token=TFZcdEXYtK
-#EXTINF:-1 group-title="SPORT",TNT SPORT 3
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1311901&extension=ts&play_token=UnaqZzobG0
-#EXTINF:-1 group-title="SPORT",TNT SPORT 4
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1311902&extension=ts&play_token=wcrFOHIE9q
 #EXTINF:-1 group-title="SPORT",TNT UK 1
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=30567&extension=ts&play_token=8tHLq7DQiO
 #EXTINF:-1 group-title="SPORT",TNT UK 2
@@ -6844,5 +6829,40 @@ http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25112
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/58396
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9" tvg-logo="https://docdog.top/logo/countries/bein/beinsports9.png" group-title="SPORT",AR: BEIN SPORTS 9
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/58397
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png" group-title="SPORT",AR: BEIN SPORTS PREMIUM 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25118
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM2.png" group-title="SPORT",AR: BEIN SPORTS PREMIUM 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25119
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png" group-title="SPORT",AR: BEIN SPORTS PREMIUM 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25120
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="SPORT",AR: BEIN SPORTS ENG 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25113
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="SPORT",AR: BEIN SPORTS ENG 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25114
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="SPORT",AR: BEIN SPORTS ENG 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25115
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NBA" tvg-logo="https://docdog.top/logo/countries/bein/beinsports-nba.jpg" group-title="SPORT",AR: BEIN SPORTS NBA
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25116
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://docdog.top/logo/countries/pakistan/ptvsports.png" group-title="SPORT",PK: PTV SPORTS HD
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23665
+
+#EXTINF:-1 tvg-id="Polsat" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="SPORT",PL: POLSAT SPORT 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/56005
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="SPORT",PL: POLSAT SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23833
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT FIGHT" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="SPORT",PL: POLSAT SPORT FIGHT
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23838
+#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="SPORT",PL: POLSAT SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23839
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="SPORT",PL: POLSAT SPORT PREMIUM 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23835
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="PL: POLSAT SPORT PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="SPORT",PL: POLSAT SPORT PREMIUM 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23836
+#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT EXTRA 3" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png" group-title="SPORT",PL: POLSAT SPORT EXTRA 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23831
+#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT PEXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="SPORT",PL: POLSAT SPORT PEXTRA 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23825
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="SPORT",PL: POLSAT SPORT EXTRA 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23830
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PEXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="SPORT",PL: POLSAT SPORT PEXTRA 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23829
