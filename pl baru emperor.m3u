@@ -2481,6 +2481,17 @@ https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/spl01.png" group-title="Mediacorp Singapore",M LIVE SPL CH01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/spl02.png" group-title="Mediacorp Singapore",M LIVE SPL CH02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+
 <=================PERSIANA========================>
 
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="PERSIANA",Persiana Cinema
@@ -3739,15 +3750,6 @@ http://stream.mcquack.net/142/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-uid="cca0c0eb4e02544aee3f9a1a81fbbae8" data-source="Gremani" tvg-logo="https://promo.matchtv.ru/img/brandbook/logo-match-bw.svg", MATCH TV 3 
 http://stream.mcquack.net/185/index.m3u8
-
-#EXTINF:-1 tvg-uid="01e2e500bb2c2a93fa98439dfd6d2f2a" data-source="Gremani" tvg-id="" group-title="Sports" tvg-logo="https://i.imgur.com/wqutmxp.png", QYTGON
-http://stream.mcquack.net/491/index.m3u8
-
-#EXTINF:-1 tvg-uid="01e2e500bb2c2a93fa98439dfd6d2f2a" data-source="Gremani" tvg-id="" group-title="Sports" tvg-logo="https://i.imgur.com/yzlexGO.png", CNOPT
-http://stream.mcquack.net/492/index.m3u8
-
-#EXTINF:-1 tvg-uid="01e2e500bb2c2a93fa98439dfd6d2f2a" data-source="Gremani" tvg-id="" group-title="Sports " tvg-logo="https://i.imgur.com/EVtKsIz.png", NPANM CNOPT
-http://stream.mcquack.net/493/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tipik_2025.svg/1280px-Tipik_2025.svg.png", RTBF TIPIK 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
