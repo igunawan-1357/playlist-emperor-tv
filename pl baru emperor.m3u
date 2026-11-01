@@ -2595,6 +2595,7 @@ http://103.165.93.31:8095/sonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony BBC Earth HD (1080p)
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53618
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Entertainment Television (576p)
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
@@ -2613,6 +2614,7 @@ http://107.167.16.138/sonymax2/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Max (576p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53621
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Max HD (1080p)
 http://103.185.24.134:3001/SonyMAX/index.m3u8
@@ -2622,32 +2624,39 @@ http://59.103.38.46:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Sony/Star",Sony Pix HD (1080p)
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53625
 
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Sony/Star",Sony SAB (720p)
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53626
 
 #EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sony/Star",Sony Sports Ten 1 (576p)
 http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sony/Star",Sony Sports Ten 1 HD (1080p)
 http://103.185.24.134:3001/SonyTenSports1/index.m3u8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53629
 
 #EXTINF:-1 tvg-id="SonySportsTen2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sony/Star",Sony Sports Ten 2 (576p)
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
+
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sony/Star",Sony Sports Ten 3 Hindi (576p)
 http://103.151.60.162:2122/play/a01t/index.m3u8?hls
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53631
 
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png" group-title="Sony/Star",Sony Sports Ten 4 Kannada (576p)
 http://103.151.60.162:2122/play/a021/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sony/Star",Sony Sports Ten 5 (576p)
 http://103.151.60.162:2122/play/a028/index.m3u8?hls
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53624
 
 #EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Wah (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Yay! (576p)
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53632
 http://103.165.93.31:8095/sonyYay/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Sony/Star",Sony Movies (720p)
@@ -2690,11 +2699,16 @@ http://103.185.24.134:3001/Star-Movies/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="Sony/Star",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 1" tvg-logo="https://docdog.top/logo/countries/india/star-sports-1-in.png" group-title="Sony/Star",IN: STAR SPORTS 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53648
+
 #EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sony/Star",Star Sports 2 (576p)
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53649
 
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sony/Star",Star Sports 2 HD (720p)
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53653
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sony/Star",Star Sports 2 Hindi (720p)
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
@@ -2704,6 +2718,7 @@ https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="Sony/Star",Star Sports 3 (576p)
 http://103.151.60.162:2122/play/a029/index.m3u8?hls
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53647
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sony/Star",Star Sports Select 1 HD (1080p)
 http://103.151.60.162:2122/play/a026/index.m3u8?hls
@@ -6864,58 +6879,287 @@ http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:BD:C7:0C&stream=825
 #EXTINF:-1 group-title="SPORT",VIA PLAY 4K
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C7:08:3E&stream=1157578&extension=ts&play_token=eTs0yzbulu
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="SPORT",AR: BEIN SPORTS 1
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25106
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="SPORT",AR: BEIN SPORTS 2
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25107
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="SPORT",AR: BEIN SPORTS 3
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25108
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="SPORT",AR: BEIN SPORTS 4
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25110
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="SPORT",AR: BEIN SPORTS 5
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25109
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="SPORT",AR: BEIN SPORTS 6
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25111
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="SPORT",AR: BEIN SPORTS 7
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25112
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8" tvg-logo="https://docdog.top/logo/countries/bein/beinsports8.png" group-title="SPORT",AR: BEIN SPORTS 8
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/58396
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9" tvg-logo="https://docdog.top/logo/countries/bein/beinsports9.png" group-title="SPORT",AR: BEIN SPORTS 9
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/58397
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png" group-title="SPORT",AR: BEIN SPORTS PREMIUM 1
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25118
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM2.png" group-title="SPORT",AR: BEIN SPORTS PREMIUM 2
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25119
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png" group-title="SPORT",AR: BEIN SPORTS PREMIUM 3
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25120
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="SPORT",AR: BEIN SPORTS ENG 1
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25113
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="SPORT",AR: BEIN SPORTS ENG 2
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25114
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="SPORT",AR: BEIN SPORTS ENG 3
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25115
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NBA" tvg-logo="https://docdog.top/logo/countries/bein/beinsports-nba.jpg" group-title="SPORT",AR: BEIN SPORTS NBA
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25116
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://docdog.top/logo/countries/pakistan/ptvsports.png" group-title="SPORT",PK: PTV SPORTS HD
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23665
+<===========================BEIN=========================>
 
-#EXTINF:-1 tvg-id="Polsat" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="SPORT",PL: POLSAT SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="BEIN",AR: BEIN SPORTS 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25106
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="BEIN",AR: BEIN SPORTS 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25107
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="BEIN",AR: BEIN SPORTS 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25108
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="BEIN",AR: BEIN SPORTS 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25110
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="BEIN",AR: BEIN SPORTS 5
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25109
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="BEIN",AR: BEIN SPORTS 6
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25111
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="BEIN",AR: BEIN SPORTS 7
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25112
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8" tvg-logo="https://docdog.top/logo/countries/bein/beinsports8.png" group-title="BEIN",AR: BEIN SPORTS 8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/58396
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9" tvg-logo="https://docdog.top/logo/countries/bein/beinsports9.png" group-title="BEIN",AR: BEIN SPORTS 9
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/58397
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png" group-title="BEIN",AR: BEIN SPORTS PREMIUM 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25118
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM2.png" group-title="BEIN",AR: BEIN SPORTS PREMIUM 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25119
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png" group-title="BEIN",AR: BEIN SPORTS PREMIUM 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25120
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="BEIN",AR: BEIN BEIN ENG 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25113
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="BEIN",AR: BEIN SPORTS ENG 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25114
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="BEIN",AR: BEIN SPORTS ENG 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25115
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-1-max-mea.png" group-title="BEIN",AR: BEIN SPORTS MAX 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/49563
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png" group-title="BEIN",AR: BEIN SPORTS MAX 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/49564
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png" group-title="BEIN",AR: BEIN SPORTS MAX 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/49565
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 4" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-4-max-mea.png" group-title="BEIN",AR: BEIN SPORTS MAX 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/49566
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NBA" tvg-logo="https://docdog.top/logo/countries/bein/beinsports-nba.jpg" group-title="BEIN",AR: BEIN SPORTS NBA
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25116
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN MOVIES 1 PREMIERE" tvg-logo="https://docdog.top/logo/countries/bein/beinmovies1premiere.png" group-title="BEIN",AR: BEIN MOVIES 1 PREMIERE
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25100
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN MOVIES 2 ACTION" tvg-logo="https://docdog.top/logo/countries/bein/beinmovies2action.png" group-title="BEIN",AR: BEIN MOVIES 2 ACTION
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25101
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN MOVIES 3 DRAMA" tvg-logo="https://docdog.top/logo/countries/bein/beinmovies3drama.png" group-title="BEIN",AR: BEIN MOVIES 3 DRAMA
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25102
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN MOVIES 4 FAMILY" tvg-logo="https://docdog.top/logo/countries/bein/beinmovies4family.png" group-title="BEIN",AR: BEIN MOVIES 4 FAMILY
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25103
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SERIES 1" tvg-logo="https://docdog.top/logo/countries/bein/beinseries1.png" group-title="BEIN",AR: BEIN SERIES 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25104
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SERIES 2" tvg-logo="https://docdog.top/logo/countries/bein/beinseries2.png" group-title="BEIN",AR: BEIN SERIES 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25105
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="BEIN",FR: BEIN SPORTS 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8298
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="BEIN",FR: BEIN SPORTS 1 HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/57554
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="BEIN",FR: BEIN SPORTS 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8299
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="BEIN",FR: BEIN SPORTS 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8300
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="BEIN",FR: BEIN SPORT MAX 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8301
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="BEIN",FR: BEIN SPORT MAX 5
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8302
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="BEIN",FR: BEIN SPORT MAX 6
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8303
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="BEIN",FR: BEIN SPORT MAX 7
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8304
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="BEIN",FR: BEIN SPORT MAX 8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8305
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="BEIN",FR: BEIN SPORT MAX 9
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8306
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="BEIN",FR: BEIN SPORT MAX 10
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8307
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 SD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="BEIN",TR: BEIN SPORTS 1 SD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62813
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD*" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="BEIN",TR: BEIN SPORTS 1 HD*
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62815
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="BEIN",TR: BEIN SPORTS 1 HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62817
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports2.png" group-title="BEIN",TR: BEIN SPORTS 2 HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62819
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports3.png" group-title="BEIN",TR: BEIN SPORTS 3 HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62821
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports4.png" group-title="BEIN",TR: BEIN SPORTS 4 HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62823
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports5.png" group-title="BEIN",TR: BEIN SPORTS 5 HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62824
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports5.png" group-title="BEIN",TR: BEIN SPORTS 5 HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62825
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="" group-title="BEIN",TR: BEIN SPORTS 5 HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62814
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="https://docdog.top/logo/countries/turkey/bein-sports-haber-tr.png" group-title="BEIN",TR: BEIN SPORTS HABER HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62827
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsportsmax1.png" group-title="BEIN",TR: BEIN SPORTS MAX 1 HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62829
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsportsmax2.png" group-title="BEIN",TR: BEIN SPORTS MAX 2 HD
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/62832
+
+<=========================ARAB SPORT======================>
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL KASS 1" tvg-logo="https://docdog.top/logo/countries/arab/alkass1.png" group-title="ARAB SPORT",AR: AL KASS 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52762
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL KASS 2" tvg-logo="https://docdog.top/logo/countries/arab/alkass2.png" group-title="ARAB SPORT",AR: AL KASS 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52763
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL KASS 3" tvg-logo="https://docdog.top/logo/countries/arab/alkass3.png" group-title="ARAB SPORT",AR: AL KASS 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52764
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL KASS 4" tvg-logo="https://docdog.top/logo/countries/arab/alkass4.png" group-title="ARAB SPORT",AR: AL KASS 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52765
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL KASS 5" tvg-logo="https://docdog.top/logo/countries/arab/alkass5.png" group-title="ARAB SPORT",AR: AL KASS 5
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52766
+#EXTINF:-1 tvg-id="" tvg-name="AR: DUBAI RACING 1" tvg-logo="https://docdog.top/logo/countries/arab/dubairacing1.png" group-title="ARAB SPORT",AR: DUBAI RACING 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52907
+#EXTINF:-1 tvg-id="" tvg-name="AR: DUBAI RACING 2" tvg-logo="https://docdog.top/logo/countries/arab/dubairacing2.png" group-title="ARAB SPORT",AR: DUBAI RACING 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52908
+#EXTINF:-1 tvg-id="" tvg-name="AR: DUBAI RACING 3" tvg-logo="https://docdog.top/logo/countries/arab/dubairacing3.png" group-title="ARAB SPORT",AR: DUBAI RACING 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52909
+#EXTINF:-1 tvg-id="" tvg-name="AR: DUBAI SPORT 1" tvg-logo="https://docdog.top/logo/countries/arab/dubaisport1.png" group-title="ARAB SPORT",AR: DUBAI SPORT 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52910
+#EXTINF:-1 tvg-id="" tvg-name="AR: DUBAI SPORT 2" tvg-logo="https://docdog.top/logo/countries/arab/dubaisport2.png" group-title="ARAB SPORT",AR: DUBAI SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52911
+#EXTINF:-1 tvg-id="" tvg-name="AR: DUBAI SPORT 3" tvg-logo="https://docdog.top/logo/countries/arab/dubaisport3.png" group-title="ARAB SPORT",AR: DUBAI SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52912
+#EXTINF:-1 tvg-id="" tvg-name="AR: KSA SPORT 1" tvg-logo="https://docdog.top/logo/countries/arab/ksasport1.png" group-title="ARAB SPORT",AR: KSA SPORT 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52994
+#EXTINF:-1 tvg-id="" tvg-name="AR: KSA SPORT 2" tvg-logo="https://docdog.top/logo/countries/arab/ksasport2.png" group-title="ARAB SPORT",AR: KSA SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52995
+#EXTINF:-1 tvg-id="" tvg-name="AR: KSA SPORT 3" tvg-logo="https://docdog.top/logo/countries/arab/ksasport3.png" group-title="ARAB SPORT",AR: KSA SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52996
+#EXTINF:-1 tvg-id="" tvg-name="AR: KSA SPORT 4" tvg-logo="https://docdog.top/logo/countries/arab/ksasport4.png" group-title="ARAB SPORT",AR: KSA SPORT 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/52997
+
+<======================POLSAT=======================>
+
+#EXTINF:-1 tvg-id="Polsat" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="EUROPE SPORT",PL: POLSAT SPORT 1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/56005
-#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="SPORT",PL: POLSAT SPORT 2
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="EUROPE SPORT",PL: POLSAT SPORT 2
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23833
-#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT FIGHT" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="SPORT",PL: POLSAT SPORT FIGHT
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT FIGHT" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="EUROPE SPORT",PL: POLSAT SPORT FIGHT
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23838
-#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="SPORT",PL: POLSAT SPORT 3
+#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="EUROPE SPORT",PL: POLSAT SPORT 3
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23839
-#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="SPORT",PL: POLSAT SPORT PREMIUM 1
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="EUROPE SPORT",PL: POLSAT SPORT PREMIUM 1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23835
-#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="PL: POLSAT SPORT PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="SPORT",PL: POLSAT SPORT PREMIUM 2
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="PL: POLSAT SPORT PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="EUROPE SPORT",PL: POLSAT SPORT PREMIUM 2
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23836
-#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT EXTRA 3" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png" group-title="SPORT",PL: POLSAT SPORT EXTRA 3
+#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT EXTRA 3" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png" group-title="EUROPE SPORT",PL: POLSAT SPORT EXTRA 3
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23831
-#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT PEXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="SPORT",PL: POLSAT SPORT PEXTRA 4
+#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT PEXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="EUROPE SPORT",PL: POLSAT SPORT PEXTRA 4
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23825
-#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="SPORT",PL: POLSAT SPORT EXTRA 1
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="EUROPE SPORT,PL: POLSAT SPORT EXTRA 1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23830
-#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PEXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="SPORT",PL: POLSAT SPORT PEXTRA 2
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PEXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="EUROPE SPORT",PL: POLSAT SPORT PEXTRA 2
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23829
+
+<======================SKY SPORT====================>
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_F1_HD.png" group-title="SKY SPORT",DE: SKY SPORT F1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61434
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_GOLF_HD.png" group-title="SKY SPORT",DE: SKY SPORT GOLF
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61435
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_MIX.png" group-title="SKY SPORT",DE: SKY SPORT MIX
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61436
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_NEWS_HD.png" group-title="SKY SPORT",DE: SKY SPORT NEWS
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61437
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_PREMIER_LEAGUE.png" group-title="SKY SPORT",DE: SKY SPORT PREMIER LEAGUE
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61438
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_TENNIS_HD.png" group-title="SKY SPORT",DE: SKY SPORT TENNIS
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61439
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_TOP_EVENT.png" group-title="SKY SPORT",DE: SKY SPORT TOP EVENT
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61440
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_1_HD.png" group-title="SKY SPORT",DE: SKY SPORT 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61441
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_2_HD.png" group-title="SKY SPORT",DE: SKY SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61442
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_3_HD.png" group-title="SKY SPORT",DE: SKY SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61443
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_4_HD.png" group-title="SKY SPORT",DE: SKY SPORT 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61444
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_5_HD.png" group-title="SKY SPORT",DE: SKY SPORT 5
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61445
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_6_HD.png" group-title="SKY SPORT",DE: SKY SPORT 6
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61446
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_7_HD.png" group-title="SKY SPORT",DE: SKY SPORT 7
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61447
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_8_HD.png" group-title="SKY SPORT",DE: SKY SPORT 8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61448
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 9" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_9_HD.png" group-title="SKY SPORT",DE: SKY SPORT 9
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61449
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_10_HD.png" group-title="SKY SPORT",DE: SKY SPORT 10
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61450
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 1" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_1_HD.png" group-title="SKY SPORT",DE: SKY SPORT AUSTRIA 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61451
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 2" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_2_HD.png" group-title="SKY SPORT",DE: SKY SPORT AUSTRIA 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61452
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 3" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_3_HD.png" group-title="SKY SPORT",DE: SKY SPORT AUSTRIA 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61453
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 4" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_4_HD.png" group-title="SKY SPORT",DE: SKY SPORT AUSTRIA 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61454
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 5" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_5_HD.png" group-title="SKY SPORT",DE: SKY SPORT AUSTRIA 5
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61455
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 6" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_6_HD.png" group-title="SKY SPORT",DE: SKY SPORT AUSTRIA 6
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61456
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 7" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_7_HD.png" group-title="SKY SPORT",DE: SKY SPORT AUSTRIA 7
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61457
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 8" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_8_HD.png" group-title="SKY SPORT",DE: SKY SPORT AUSTRIA 8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/61458
+
+<=======================EUROPE SPORT=====================>
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/artsport1.png" group-title="EUROPE SPORT",AL: ART SPORT 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/57598
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2" tvg-logo="https://docdog.top/logo/countries/albania/ARTSPORTF.png" group-title="EUROPE SPORT",AL: ART SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/57599
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3" tvg-logo="https://docdog.top/logo/countries/albania/artsport3.png" group-title="EUROPE SPORT",AL: ART SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/57600
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS 1" tvg-logo="https://docdog.top/logo/countries/belgium/play-sports-1-be.png" group-title="EUROPE SPORT",BE: PLAY SPORTS 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8569
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS 2" tvg-logo="https://docdog.top/logo/countries/belgium/play-sports-2-be.png" group-title="EUROPE SPORT",BE: PLAY SPORTS 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8570
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS 3" tvg-logo="https://docdog.top/logo/countries/belgium/playsports3.png" group-title="EUROPE SPORT",BE: PLAY SPORTS 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8606
+#EXTINF:-1 tvg-id="" tvg-name="BG: DIEMA SPORT" tvg-logo="https://docdog.top/logo/countries/bulgaria/diemasport.png" group-title="EUROPE SPORT",BG: DIEMA SPORT
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24046
+#EXTINF:-1 tvg-id="" tvg-name="BG: DIEMA SPORT 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/diemasport2.png" group-title="EUROPE SPORT",BG: DIEMA SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24045
+#EXTINF:-1 tvg-id="" tvg-name="BG: DIEMA SPORT 3" tvg-logo="https://docdog.top/logo/countries/bulgaria/diema_sport_3.png" group-title="EUROPE SPORT",BG: DIEMA SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/57341
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 1" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport1.png" group-title="EUROPE SPORT",CRO: ARENA SPORT 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24038
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport2.png" group-title="EUROPE SPORT",CRO: ARENA SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24037
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport3.png" group-title="EUROPE SPORT",CRO: ARENA SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24036
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 4" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport4.png" group-title="EUROPE SPORT",CRO: ARENA SPORT 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24035
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 5" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport5.png" group-title="EUROPE SPORT",CRO: ARENA SPORT 5
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24034
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 6" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport6.png" group-title="EUROPE SPORT",CRO: ARENA SPORT 6
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24033
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 1" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-1-gr.png" group-title="EUROPE SPORT",GR: COSMOTE SPORT 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24012
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 2" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-2-gr.png" group-title="EUROPE SPORT",GR: COSMOTE SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24010
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 3" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-3-gr.png" group-title="EUROPE SPORT",GR: COSMOTE SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24009
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 4" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-4-gr.png" group-title="EUROPE SPORT",GR: COSMOTE SPORT 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24008
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 5" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-5-gr.png" group-title="EUROPE SPORT",GR: COSMOTE SPORT 5
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24007
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 6" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-6-gr.png" group-title="EUROPE SPORT",GR: COSMOTE SPORT 6
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24006
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 7" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-7-gr.png" group-title="EUROPE SPORT",GR: COSMOTE SPORT 7
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24011
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 8" tvg-logo="https://docdog.top/logo/countries/greece/cosmote-sport-8-gr.png" group-title="EUROPE SPORT",GR: COSMOTE SPORT 8
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/24005
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SPORT 9" tvg-logo="https://docdog.top/logo/countries/greece/cosmotesport8.png" group-title="EUROPE SPORT",GR: COSMOTE SPORT 9
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25956
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI SPORT 1" tvg-logo="https://docdog.top/logo/countries/hungary/digisport1.png" group-title="EUROPE SPORT",HU: DIGI SPORT 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/51905
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI SPORT 2" tvg-logo="https://docdog.top/logo/countries/hungary/digisport2.png" group-title="EUROPE SPORT",HU: DIGI SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/51906
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI SPORT 3" tvg-logo="https://docdog.top/logo/countries/hungary/digisport3.png" group-title="EUROPE SPORT",HU: DIGI SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/51907
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="EUROPE SPORT",RO: DIGI SPORT 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23854
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://docdog.top/logo/countries/romania/digisport2.png" group-title="EUROPE SPORT",RO: DIGI SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23853
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3" tvg-logo="https://docdog.top/logo/countries/romania/digisport3.png" group-title="EUROPE SPORT",RO: DIGI SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23851
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://docdog.top/logo/countries/romania/digisport4.png" group-title="EUROPE SPORT",RO: DIGI SPORT 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23852
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png" group-title="EUROPE SPORT",FR: RMC SPORT 1
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8338
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="EUROPE SPORT",FR: RMC SPORT 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8339
+#EXTINF:-1 tvg-id="RMC SPORT 3" tvg-name="FR: RMC SPORT 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-3-fr.png" group-title="EUROPE SPORT",FR: RMC SPORT 3
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8340
+#EXTINF:-1 tvg-id="RMC Sport 4" tvg-name="FR: RMC SPORT 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-4-fr.png" group-title="EUROPE SPORT",FR: RMC SPORT 4
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/8341
+
+
