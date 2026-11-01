@@ -4457,7 +4457,7 @@ http://stream.mcquack.net/144/index.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel! (1080p)
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KidsMovieClub.us@SD" tvg-logo="https://i.imgur.com/avFk0Tt.png" group-title="Kids",Kids Movie Club
+#EXTINF:-1 tvg-id="KidsMovieClub.us@SD" tvg-logo="https://i.imgur.com/avFk0Tt.png" group-title="Kids",Kids Club
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 
 #EXTINF:-1 tvg-id="KidsFlix.us@SD" tvg-logo="https://i.imgur.com/4Pn0ADQ.png" group-title="Kids",KidsFlix (1080p) [Not 24/7]
@@ -7031,7 +7031,7 @@ http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23836
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23831
 #EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT PEXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="EUROPE SPORT",PL: POLSAT SPORT PEXTRA 4
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23825
-#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="EUROPE SPORT,PL: POLSAT SPORT EXTRA 1
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="EUROPE SPORT",PL: POLSAT SPORT EXTRA 1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23830
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PEXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="EUROPE SPORT",PL: POLSAT SPORT PEXTRA 2
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/23829
