@@ -1,7 +1,8 @@
 #==============PLAYLIST INI GRATIS================#CREATED EMPEROR TV IG PROJECT
 <========================INDONESIA====================>
 
-#EXTM3U
+#EXTM3U
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indonesiana.jpg" group-title="INDONESIA",Indonesiana TV (feed)
 https://tvstreamcast.com/indonesiana.m3u8
@@ -636,10 +637,6 @@ https://cuwf8jayq1.tenbytecdn.com/live/tvokey/abr/tvokey_1080p/chunks.m3u8?md5=v
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.imgur.com/PZcz6Pw.png", FREE MOVIES
 https://cuwf8jayq1.tenbytecdn.com/live/freemovies/abr/freemovies_1080p/chunks.m3u8?md5=9TG9j_y0NfXDler8ZMMRpA&expires=1791227645
-
-#EXTINF:-1 tvg-id="108" group-title="Malaysia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://e7.pngegg.com/pngimages/130/418/png-clipart-8tv-malaysia-media-prima-television-tv3-bulan-sabit-purple-television.png",8TV Malaysia
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
-
 
 <============THAILAND=============>
 
@@ -1532,7 +1529,8 @@ https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="VIETNAM",Vietnam Today (1080p)
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
-
+
+
 #EXTINF:-1 tvg-id="VinhLongTV1.vn@SD" tvg-logo="https://i.imgur.com/5YFsqPx.png" group-title="VIETNAM",Vinh Long TV 1 (720p)
 https://dethich.pw/thvl1/index.m3u8
 
@@ -2605,13 +2603,16 @@ https://raphls.persiana.live/hls/stream.m3u8
 <=====================SONY/STAR===================>
 
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="Sony/Star",Sony Aath (576p)
+http://107.167.16.138/sonyaath/index.m3u8?token=test
 http://103.165.93.31:8095/sonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony BBC Earth HD (1080p)
-http://103.185.24.134:3001/SONY-BBC/index.m3u8
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53618
+http://103.185.24.134:3001/SONY-BBC/index.m3u8
+
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Entertainment Television (576p)
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53632
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Entertainment Television HD (1080p)
@@ -2621,30 +2622,35 @@ http://38.96.178.205/SONYHD/index.m3u8
 http://107.167.16.138/sonymarathi/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Max 1
+http://107.167.16.138/sonymax1/index.m3u8?token=test
 http://27.116.22.53:5001/live/3418.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Sony/Star",Sony Max 2 (576p)
 http://107.167.16.138/sonymax2/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Max (576p) [Geo-blocked]
+http://107.167.16.138/sonymax/index.m3u8?token=test
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
-http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53621
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Max HD (1080p)
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53621
 http://103.185.24.134:3001/SonyMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Pal (576p)
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53624
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Sony/Star",Sony Pix HD (1080p)
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53625
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Sony/Star",Sony SAB (720p)
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53626
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sony/Star",Sony Sports Ten 1 (576p)
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53629
 http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sony/Star",Sony Sports Ten 1 HD (1080p)
@@ -2656,17 +2662,20 @@ http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sony/Star",Sony Sports Ten 3 Hindi (576p)
-http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53631
+http://103.151.60.162:2122/play/a01t/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png" group-title="Sony/Star",Sony Sports Ten 4 Kannada (576p)
 http://103.151.60.162:2122/play/a021/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sony/Star",Sony Sports Ten 5 (576p)
-http://103.151.60.162:2122/play/a028/index.m3u8?hls
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53624
+http://103.151.60.162:2122/play/a028/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Wah (1080p) [Geo-blocked]
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53627
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Sony/Star",Sony Yay! (576p)
@@ -2717,12 +2726,14 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b19
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53648
 
 #EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sony/Star",Star Sports 2 (576p)
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53649
+http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sony/Star",Star Sports 2 HD (720p)
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53653
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sony/Star",Star Sports 2 Hindi (720p)
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
@@ -2731,8 +2742,9 @@ https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="Sony/Star",Star Sports 3 (576p)
-http://103.151.60.162:2122/play/a029/index.m3u8?hls
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53647
+http://103.151.60.162:2122/play/a029/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sony/Star",Star Sports Select 1 HD (1080p)
 http://103.151.60.162:2122/play/a026/index.m3u8?hls
