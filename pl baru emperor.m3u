@@ -6648,16 +6648,6 @@ http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/536175.ts
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/536176.ts
 #EXTINF:-1 group-title="SPORT",ARENA SPORT 9
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/536177.ts
-#EXTINF:-1 group-title="SPORT",360 SPORT
-http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=553679&extension=ts&play_token=IoAHy93RS8
-#EXTINF:-1 group-title="SPORT",ARENA ADRENALIN
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1900188&extension=ts&play_token=lIxUTr4TKc
-#EXTINF:-1 group-title="SPORT",ARENA PREMIUM 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1861865&extension=ts&play_token=TBy6IlutDf
-#EXTINF:-1 group-title="SPORT",ARENA PREMIUM 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1861861&extension=ts&play_token=idMHjdqGS1
-#EXTINF:-1 group-title="SPORT",ARENA PREMIUM 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1861863&extension=ts&play_token=6Eb1PMqhKO
 
 <========================ESPN=======================>
 
@@ -6706,7 +6696,7 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1090980&exten
 #EXTINF:-1 group-title="SPORT",MOTORCROSS 2
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1091524&extension=ts&play_token=XPo1nuuxd9
 
-#EXTINF:-1 group-title="SPORT",STARSPORT 2 HD
+#EXTINF:-1 group-title="SPORT",STARSPORTSELECT 2 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=373201&extension=ts&play_token=B3HihYvCSV
 #EXTINF:-1 group-title="SPORT",STARSPORT 2 HD
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1114583&extension=ts&play_token=2qdvC5ZfJR
@@ -6737,28 +6727,6 @@ http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=891266&extensio
 #EXTINF:-1 group-title="SPORT",ZIGGO SPORT 6
 http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=891263&extension=ts&play_token=14qK1vLcLa
 
-#EXTINF:-1 group-title="SPORT",ASTRO BADMINTON
-http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1170911.ts
-#EXTINF:-1 group-title="SPORT",ASTRO FOOTBALL
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1016545&extension=ts&play_token=gNdbb1iPCE
-#EXTINF:-1 group-title="SPORT",ASTRO GRANDSTAND
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=918984&extension=ts&play_token=ePLSBakhDk
-#EXTINF:-1 group-title="SPORT",ASTRO PREMIER LEAGUE 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1016544&extension=ts&play_token=GnCIhjzdID
-#EXTINF:-1 group-title="SPORT",ASTRO PREMIER LEAGUE 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=918985&extension=ts&play_token=pkn0eTDYbP
-#EXTINF:-1 group-title="SPORT",BEIN 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=923432&extension=ts&play_token=ZMoRrTkYx8
-#EXTINF:-1 group-title="SPORT",BEIN 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=923431&extension=ts&play_token=v9FvanOTmA
-#EXTINF:-1 group-title="SPORT",BEIN 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=923430&extension=ts&play_token=XyDg2DNX3g
-#EXTINF:-1 group-title="SPORT",BEIN SPORT 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=507699&extension=ts&play_token=YVd9HZ49q1
-#EXTINF:-1 group-title="SPORT",BEIN SPORT 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=526125&extension=ts&play_token=LtQUIe30RV
-#EXTINF:-1 group-title="SPORT",BEIN SPORT 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=526124&extension=ts&play_token=cK9ugmuwDF
 #EXTINF:-1 group-title="SPORT",BEIN SPORT AUST
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/986957.ts
 #EXTINF:-1 group-title="SPORT",DAZN 1
@@ -6812,58 +6780,6 @@ http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1903775&
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=2065806&extension=ts&play_token=lZWMkDde16
 #EXTINF:-1 group-title="SPORT",HUB SPORT 7
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=2065805&extension=ts&play_token=iAckNYcPu4
-#EXTINF:-1 group-title="SPORT",PRIMA SPORT 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=208006&extension=ts&play_token=3YTWLzoza7
-#EXTINF:-1 group-title="SPORT",PRIMA SPORT 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=208007&extension=ts&play_token=od20S8objo
-#EXTINF:-1 group-title="SPORT",PRIMA SPORT 3
-http://bvv01.com:8080/fJEP9DGB/sk7JqMjwaZfm/1448564?play_token=Hj8i18ERIX
-#EXTINF:-1 group-title="SPORT",PRIMA SPORT 4
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=92486&extension=ts&play_token=YKeuWZ8TdC
-#EXTINF:-1 group-title="SPORT",PRIMA SPORT 5
-http://chaotic-streams.cc:80/play/live.php?mac=A0:BB:3E:08:49:84&stream=1917250&extension=ts&play_token=KP7wU064vT
-#EXTINF:-1 group-title="SPORT",S SPORT 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=913381&extension=ts&play_token=mybASKLt38
-#EXTINF:-1 group-title="SPORT",S SPORT 2 HD+
-http://vip-08.xyz:8080/live/B73eurfrJV/4CG65zZnKD/111086.ts
-#EXTINF:-1 group-title="SPORT",S SPORT HD+
-http://vip-08.xyz:8080/live/B73eurfrJV/4CG65zZnKD/94871.ts
-#EXTINF:-1 group-title="SPORT",SK 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=161937&extension=ts&play_token=cIgx215CC1
-#EXTINF:-1 group-title="SPORT",SK 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=110769&extension=ts&play_token=jMEn0ybLqY
-#EXTINF:-1 group-title="SPORT",SK 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=110768&extension=ts&play_token=HZ54zBB0Zv
-#EXTINF:-1 group-title="SPORT",SK 4
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=110767&extension=ts&play_token=GCu5VqbRcb
-#EXTINF:-1 group-title="SPORT",SK 5
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=110766&extension=ts&play_token=fYrzwVNY3g
-#EXTINF:-1 group-title="SPORT",SK 6
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=110765&extension=ts&play_token=fHwJVIvbkG
-#EXTINF:-1 group-title="SPORT",SKY ARENA
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=691274&extension=ts&play_token=oKgvaTCtYe
-#EXTINF:-1 group-title="SPORT",SKY EVENT
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=984665&extension=ts&play_token=Ck2pCysPSJ
-#EXTINF:-1 group-title="SPORT",SKY F1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=83453&extension=ts&play_token=7xMODxBLkD
-#EXTINF:-1 group-title="SPORT",SKY FOOTBALL
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=691277&extension=ts&play_token=sxqxPBDneC
-#EXTINF:-1 group-title="SPORT",SKY MIX
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=984662&extension=ts&play_token=xDieSp6Unu
-#EXTINF:-1 group-title="SPORT",SKY PREMIER LEAGUE
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1964157&extension=ts&play_token=tgqxuzOp6u
-#EXTINF:-1 group-title="SPORT",SKY TENNIS
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=971739&extension=ts&play_token=gdrkTmyfOs
-#EXTINF:-1 group-title="SPORT",SP 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=155983&extension=ts&play_token=9VLIok3bSq
-#EXTINF:-1 group-title="SPORT",SPORT 24
-http://iptv4kuhd.slt.monster/live/pneu1/xKWNKM93/6287.ts
-#EXTINF:-1 group-title="SPORT",SPORT KLUB 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1189093&extension=ts&play_token=amW8LknO8I
-#EXTINF:-1 group-title="SPORT",SPORT KLUB 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1189094&extension=ts&play_token=kAQoJkTRzN
-#EXTINF:-1 group-title="SPORT",SPORT KLUB 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1189095&extension=ts&play_token=OTVv9XJB7U
 #EXTINF:-1 group-title="SPORT",SPORT TV 1
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1030794.ts
 #EXTINF:-1 group-title="SPORT",SPORT TV 2
@@ -6884,22 +6800,7 @@ http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1028482.ts
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1247898.ts
 #EXTINF:-1 group-title="SPORT",SPOTV 2
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1247899.ts
-#EXTINF:-1 group-title="SPORT",TNT UK 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=30567&extension=ts&play_token=8tHLq7DQiO
-#EXTINF:-1 group-title="SPORT",TNT UK 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=30566&extension=ts&play_token=Makwol5PEe
-#EXTINF:-1 group-title="SPORT",TNT UK 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=30565&extension=ts&play_token=nGPi4oLZoh
-#EXTINF:-1 group-title="SPORT",TNT UK 4
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1019935&extension=ts&play_token=GNDmi6nnk3
-#EXTINF:-1 group-title="SPORT",TNT UK 5
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1004548&extension=ts&play_token=FxaJi6VawO
-#EXTINF:-1 group-title="SPORT",TRING SP 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=116211&extension=ts&play_token=jsDWFp7UcB
-#EXTINF:-1 group-title="SPORT",TRING SP 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=116213&extension=ts&play_token=LqVmSvRk9i
-#EXTINF:-1 group-title="SPORT",TRING SP 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=116214&extension=ts&play_token=Mzxad2tNrc
+
 #EXTINF:-1 group-title="SPORT",UFC 1
 http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:BD:C7:0C&stream=825538&extension=ts&play_token=1IRMa06c58
 #EXTINF:-1 group-title="SPORT",VIA PLAY 4K
