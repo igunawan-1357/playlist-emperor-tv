@@ -6682,27 +6682,16 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944691&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944692&extension=ts&play_token=i3orb1R3hQ
 #EXTINF:-1 group-title="SPORT",FOX 505 AU
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944684&extension=ts&play_token=0RU4tpStZB
-#EXTINF:-1 group-title="SPORT",FOX 506
-http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=617192&extension=ts&play_token=jv4qn91FId
 #EXTINF:-1 group-title="SPORT",FOX 506 AU
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944693&extension=ts&play_token=K94ORxvJ4e
-#EXTINF:-1 group-title="SPORT",FOX 506 HD
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1520169&extension=ts&play_token=isA9JamMJj
 #EXTINF:-1 group-title="SPORT",FOX 507 AU
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944694&extension=ts&play_token=EQU0kc2mr6
-
 #EXTINF:-1 group-title="SPORT",MOTORCROSS 1
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1090980&extension=ts&play_token=Yq5SKYguYM
 #EXTINF:-1 group-title="SPORT",MOTORCROSS 2
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1091524&extension=ts&play_token=XPo1nuuxd9
-
 #EXTINF:-1 group-title="SPORT",STARSPORTSELECT 2 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=373201&extension=ts&play_token=B3HihYvCSV
-#EXTINF:-1 group-title="SPORT",STARSPORT 2 HD
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1114583&extension=ts&play_token=2qdvC5ZfJR
-#EXTINF:-1 group-title="SPORT",STARSPORT HD 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1114584&extension=ts&play_token=eV5MHqzWAS
-
 #EXTINF:-1 group-title="SPORT",SUPER SPORT 1
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:31:09:69&stream=854450&extension=ts&play_token=pJFU6oSiaS
 #EXTINF:-1 group-title="SPORT",SUPER SPORT 2
@@ -6733,27 +6722,6 @@ http://4smarts.xyz:80/live/7871455281577447/7425145891EB/986957.ts
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=894974&extension=ts&play_token=hILX4HislN
 #EXTINF:-1 group-title="SPORT",DAZN 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=894975&extension=ts&play_token=3tzJNFhfNk
-#EXTINF:-1 group-title="SPORT",DIGI SPORT 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=207916&extension=ts&play_token=0uvRN66jkh
-#EXTINF:-1 group-title="SPORT",DIGI SPORT 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=207917&extension=ts&play_token=hPqAeYTcPM
-#EXTINF:-1 group-title="SPORT",ELEVEN 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=880457&extension=ts&play_token=7nL4X25z3V
-#EXTINF:-1 group-title="SPORT",ELEVEN 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=880456&extension=ts&play_token=fQeN6lnIKg
-#EXTINF:-1 group-title="SPORT",ELEVEN 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=880455&extension=ts&play_token=1KEtHnOKLG
-#EXTINF:-1 group-title="SPORT",ELEVEN 4
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=1470618&extension=ts&play_token=jYi78p3aQU
-
-#EXTINF:-1 group-title="SPORT",FUBO 1
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=858538&extension=ts&play_token=HskA4xi09M
-#EXTINF:-1 group-title="SPORT",HB 1
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1110667&extension=ts&play_token=nNtULt4Kbj
-#EXTINF:-1 group-title="SPORT",HB 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1110666&extension=ts&play_token=727mWK22Gl
-#EXTINF:-1 group-title="SPORT",HB 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1110665&extension=ts&play_token=KYbtbLfec3
 #EXTINF:-1 group-title="SPORT",HUB PREMIER 1
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/324806.ts
 #EXTINF:-1 group-title="SPORT",HUB PREMIER 2
@@ -6800,11 +6768,71 @@ http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1028482.ts
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1247898.ts
 #EXTINF:-1 group-title="SPORT",SPOTV 2
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1247899.ts
-
 #EXTINF:-1 group-title="SPORT",UFC 1
 http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:BD:C7:0C&stream=825538&extension=ts&play_token=1IRMa06c58
 #EXTINF:-1 group-title="SPORT",VIA PLAY 4K
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C7:08:3E&stream=1157578&extension=ts&play_token=eTs0yzbulu
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="SPORT VIP",PL: CANAL+ SPORT
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/876
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="SPORT VIP",PL: CANAL+ SPORT 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/877
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png" group-title="SPORT VIP",PL: CANAL+ SPORT 3
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/878
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_4.png" group-title="SPORT VIP",PL: CANAL+ SPORT 4
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/879
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_5.png" group-title="SPORT VIP",PL: CANAL+ SPORT 5
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/889
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="SPORT VIP",PL: ELEVEN SPORTS 1
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/880
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="SPORT VIP",PL: ELEVEN SPORTS 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/881
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="SPORT VIP",PL: ELEVEN SPORTS 3
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/882
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png" group-title="SPORT VIP",PL: ELEVEN SPORTS 4
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/883
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="SPORT VIP",PL: POLSAT SPORT 1
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34309
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="SPORT VIP",PL: POLSAT SPORT 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/886
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="SPORT VIP",PL: POLSAT SPORT 3
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/887
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="SPORT VIP",PL: POLSAT SPORT FIGHT
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/888
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="SPORT VIP",PL: POLSAT SPORT PREMIUM 1
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/870
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="SPORT VIP",PL: POLSAT SPORT PREMIUM 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/871
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png" group-title="SPORT VIP",PL: POLSAT SPORT EXTRA 3
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/872
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="SPORT VIP",PL: POLSAT SPORT EXTRA 4
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/873
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="SPORT VIP",PL: POLSAT SPORT EXTRA 1
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/874
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="SPORT VIP",PL: POLSAT SPORT PEXTRA 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/875
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="SPORT VIP",PL: EUROSPORT 1
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/884
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/eurosport2.png" group-title="SPORT VIP",PL: EUROSPORT 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/885
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="SPORT VIP",PL: FIGHTBOX
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/942
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/golfchannel.png" group-title="SPORT VIP",PL: GOLF ZONE
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/953
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/motowizja.png" group-title="SPORT VIP",PL: MOTOWIZJA
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/967
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/EXTREME_SPORTS_HD.png" group-title="SPORT VIP",PL: EXTREME SPORTS
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/128952
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="SPORT VIP",PL: CANAL+ 360
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/132374
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_3.png" group-title="SPORT VIP",PL: EUROSPORT 3
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157591
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/EUROSPORT_4.png" group-title="SPORT VIP",PL: EUROSPORT 4
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157592
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT_7.png" group-title="SPORT VIP",PL: CANAL+ SPORT 7
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158702
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT_6.png" group-title="SPORT VIP",PL: CANAL+ SPORT 6
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158703
 
 <===========================BEIN=========================>
 
