@@ -2708,14 +2708,13 @@ https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7
 #KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
 https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
 
-#EXTINF:-1 tvg-id="AVASeries.ir@SD" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="AVA",AVA Series
+<=====================AVA==============================>
+
+#EXTINF:-1 tvg-id="AVASeries.ir@SD" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Premium Movies",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="ava.family" tvg-logo="https://ca-rt.onetv.app/logo/ava_family.png" group-title="AVA",AVA Family
+#EXTINF:-1 tvg-id="ava.family" tvg-logo="https://ca-rt.onetv.app/logo/ava_family.png" group-title="Premium Movies",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="ava.news" tvg-logo="https://en.wikipedia.org/wiki/AVA_Media#/media/File:AVAMedialogo.jpg" group-title="AVA",AVA News
-https://ava001.xyz/upload/images/720.m3u8
 
 <=================SLOVAKIA======================>
 
@@ -6412,8 +6411,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/500px-BBC_News_2022_%28Alt%29.svg.png" tvg-id="BBCNews.uk" tvg-chno="231" tvg-country="GB" group-title="BBC",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="BBC Asian Network" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" tvg-id="BBCRadioAsianNetwork.uk" tvg-chno="10" tvg-country="GB" group-title="BBC",BBC Asian Network
-https://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
 #EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="BBCFood.us" tvg-chno="1" tvg-country="US" group-title="BBC",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="BBCHome.us" tvg-chno="2" tvg-country="US" group-title="BBC",BBC Home
@@ -6422,100 +6419,104 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Drama – Pluto TV" tvg-logo="https://i.imgur.com/CrAqXHJ.png" group-title="BBC",BBC Drama – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP._2P17CH7utW-IubLX2u_YgAAAA?pid=Api&P=0&h=220" group-logo="" group-title="BBC", BBC First
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd?encoding=segmentBase
 
 <======================== ARENA SPORT======================>
 
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="SPORT",ARENA SPORT 1
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/1461003.ts
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="SPORT",ARENA SPORT 2
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/1460667.ts
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3r3burN.png" group-title="SPORT",ARENA SPORT 3
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/1460666.ts
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="SPORT",ARENA SPORT 4
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/1460665.ts
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/036qMgu.png" group-title="SPORT",ARENA SPORT 5
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/2440.ts
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="SPORT",ARENA SPORT 6
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/2439.ts
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fgvOrR.png" group-title="SPORT",ARENA SPORT 7
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/536175.ts
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wk9dr78.png" group-title="SPORT",ARENA SPORT 8
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/536176.ts
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/riMTqTu.png" group-title="SPORT",ARENA SPORT 9
 http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/536177.ts
 
 <========================ESPN=======================>
 
-#EXTINF:-1 group-title="SPORT",ESPN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="SPORT",ESPN 1
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=237593&extension=ts&play_token=IUVcP7yrwR
-#EXTINF:-1 group-title="SPORT",ESPN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="SPORT",ESPN 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=237594&extension=ts&play_token=E4hfLDCEMq
-#EXTINF:-1 group-title="SPORT",ESPN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="SPORT",ESPN 3
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=237595&extension=ts&play_token=A91bKZVqTm
-#EXTINF:-1 group-title="SPORT",ESPN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="SPORT",ESPN 4
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=237596&extension=ts&play_token=QaFG4hdRXq
-#EXTINF:-1 group-title="SPORT",ESPN 4K
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/espn4k_color_1440x1440.png" group-title="SPORT",ESPN 4K
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1761576&extension=ts&play_token=ME7arqXd1z
-#EXTINF:-1 group-title="SPORT",ESPN R 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvGI3HHx61TBkNf2sreicsL7npIr4Ei9fBVTyTkTG3ePtEd1fStxBdzGb1&s=10" group-title="SPORT",ESPN R 1
 http://teleflixhd.club:80/live/276078/avqmpQ/71911.ts
-#EXTINF:-1 group-title="SPORT",ESPN R 2
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="SPORT",ESPN R 2
 http://teleflixhd.club:80/live/276078/avqmpQ/71919.ts
-#EXTINF:-1 group-title="SPORT",ESPN R 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/ESPN_3.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="SPORT",ESPN R 3
 http://teleflixhd.club:80/live/276078/avqmpQ/71907.ts
-#EXTINF:-1 group-title="SPORT",ESPN R 4
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="SPORT",ESPN R 4
 http://teleflixhd.club:80/live/276078/avqmpQ/71957.ts
 
 <<=========================FOX=====================>
 
-#EXTINF:-1 group-title="SPORT",FOX 501 AU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="SPORT",FOX 501 AU
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944683&extension=ts&play_token=ATanypYTbS
-#EXTINF:-1 group-title="SPORT",FOX 502 AU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="SPORT",FOX 502 AU
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944690&extension=ts&play_token=RGHGlH4q5H
-#EXTINF:-1 group-title="SPORT",FOX 503 AU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="SPORT",FOX 503 AU
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944691&extension=ts&play_token=rJa9b0D2yV
-#EXTINF:-1 group-title="SPORT",FOX 504 AU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="SPORT",FOX 504 AU
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944692&extension=ts&play_token=i3orb1R3hQ
-#EXTINF:-1 group-title="SPORT",FOX 505 AU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="SPORT",FOX 505 AU
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944684&extension=ts&play_token=0RU4tpStZB
-#EXTINF:-1 group-title="SPORT",FOX 506 AU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="SPORT",FOX 506 AU
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944693&extension=ts&play_token=K94ORxvJ4e
-#EXTINF:-1 group-title="SPORT",FOX 507 AU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="SPORT",FOX 507 AU
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=944694&extension=ts&play_token=EQU0kc2mr6
-#EXTINF:-1 group-title="SPORT",MOTORCROSS 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="SPORT",MOTORCROSS 1
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1090980&extension=ts&play_token=Yq5SKYguYM
-#EXTINF:-1 group-title="SPORT",MOTORCROSS 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="SPORT",MOTORCROSS 2
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1091524&extension=ts&play_token=XPo1nuuxd9
-#EXTINF:-1 group-title="SPORT",STARSPORTSELECT 2 HD
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h.jpg" group-title="SPORT",STARSPORTSELECT 2 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=373201&extension=ts&play_token=B3HihYvCSV
-#EXTINF:-1 group-title="SPORT",SUPER SPORT 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jSbawN.png" group-title="SPORT",SUPER SPORT 1
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:31:09:69&stream=854450&extension=ts&play_token=pJFU6oSiaS
-#EXTINF:-1 group-title="SPORT",SUPER SPORT 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="SPORT",SUPER SPORT 2
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:31:09:69&stream=854447&extension=ts&play_token=6XMEPemnEs
-#EXTINF:-1 group-title="SPORT",SUPER SPORT 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="SPORT",SUPER SPORT 3
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:31:09:69&stream=854448&extension=ts&play_token=2xvMtIC0xX
-#EXTINF:-1 group-title="SPORT",SUPER SPORT 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="SPORT",SUPER SPORT 4
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:31:09:69&stream=854449&extension=ts&play_token=rxksYkySAx
 
-#EXTINF:-1 group-title="SPORT",VISION SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzDPXG5.png" group-title="SPORT",VISION SPORT
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1017405&extension=ts&play_token=w0yQ4LmjLX
-#EXTINF:-1 group-title="SPORT",ZIGGO SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg" group-title="SPORT",ZIGGO SPORT 1
 http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=891270&extension=ts&play_token=PboqalEhcV
-#EXTINF:-1 group-title="SPORT",ZIGGO SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg" group-title="SPORT",ZIGGO SPORT 2
 http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=891269&extension=ts&play_token=8SfiO2CLZY
-#EXTINF:-1 group-title="SPORT",ZIGGO SPORT 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg" group-title="SPORT",ZIGGO SPORT 3
 http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=891268&extension=ts&play_token=CRnujWf3vB
-#EXTINF:-1 group-title="SPORT",ZIGGO SPORT 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg" group-title="SPORT",ZIGGO SPORT 4
 http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=891267&extension=ts&play_token=8UOOY1fZYA
-#EXTINF:-1 group-title="SPORT",ZIGGO SPORT 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg" group-title="SPORT",ZIGGO SPORT 5
 http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=891266&extension=ts&play_token=8Ubf3Uy1IV
-#EXTINF:-1 group-title="SPORT",ZIGGO SPORT 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg" group-title="SPORT",ZIGGO SPORT 6
 http://dinofox.sbs:80/play/live.php?mac=00:1A:79:B6:C7:A2&stream=891263&extension=ts&play_token=14qK1vLcLa
 
-#EXTINF:-1 group-title="SPORT",BEIN SPORT AUST
+#EXTINF:-1 tvg-logo="" group-title="SPORT",BEIN SPORT AUST
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/986957.ts
-#EXTINF:-1 group-title="SPORT",DAZN 1
+#EXTINF:-1 tvg-logo="" group-title="SPORT",DAZN 1
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=894974&extension=ts&play_token=hILX4HislN
-#EXTINF:-1 group-title="SPORT",DAZN 2
+#EXTINF:-1 tvg-logo="" group-title="SPORT",DAZN 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=894975&extension=ts&play_token=3tzJNFhfNk
 #EXTINF:-1 group-title="SPORT",HUB PREMIER 1
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/324806.ts
