@@ -1907,8 +1907,46 @@ https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="VTV10.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png" group-title="VIETNAM",VTV10 (1080p)
 https://dethich.pw/vtv10/index.m3u8
 
+<====================FILIPINA=======================>
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3WfagodGb5rH6YNgxse0nRq7JMvb3Ac0NCPReJ3Clw&s" group-title="FILIPINA", ONE Sports
+http://gvisiontv2.channell.my.id/ch/ph/ones.php/.mpd
+
+#EXTINF:-1 group-title="FILIPINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsG6PgcdcU6Ked5eoWUSjFB9rhTbElQtALBXp6uNTcw&s",TAP Sports
+http://gvisiontv2.channell.my.id/ch/ph/taps.php/.mpd
+
+#EXTINF:-1 tvg-id="premier-sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmzl4C9qJv1mfODCOQzGjNLXxKBX_UCevUY62ljt2KQ&s" group-title="FILIPINA", Premier Sports
+http://gvisiontv2.channell.my.id/ch/ph/premiers.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ61Ifz3RNezWniTpAcP1JjqQbYVqHL8MSs87UNsPbT4g&s=10" group-title="FILIPINA", Edge Sport
+http://gvisiontv2.channell.my.id/ch/ph/edges.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="FILIPINA", Solar Sports
+http://gvisiontv2.channell.my.id/ch/ph/solars.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWG1ZIxgAdeiY7OLldbWcSzA08cVdDJxTQpuogYyEVg&s=10" group-title="FILIPINA", RPTV 
+http://gvisiontv2.channell.my.id/ch/ph/rptv.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="FILIPINA", GTV | Event Only
+http://gvisiontv2.channell.my.id/ch/ph/gtv.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="FILIPINA", PTV4 
+http://gvisiontv2.channell.my.id/ch/ph/ptv4.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="FILIPINA", A2Z 
+http://gvisiontv2.channell.my.id/ch/ph/a2z.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="FILIPINA",Kapamilya Channel 
+http://gvisiontv2.channell.my.id/ch/ph/kapamilya.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="FILIPINA", NET 25 
+http://gvisiontv2.channell.my.id/ch/ph/net25.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="FILIPINA", ALL TV 
+http://gvisiontv2.channell.my.id/ch/ph/alltv.php/.mpd
 
 <====================VISION+=========================>
+
 #EXTINF:-1 tvg-id="ANTV.id@SD" group-title="VISION P" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2314,6 +2352,27 @@ http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79znp.png" group-title="HBO Group",Cinemax
 http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg", group-title= "HBO Group", HBO TS
+http://013tv.com:8080/F33848/cbd9779b/306484
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbosig.jpg", group-title= "HBO Group", HBO Signature TS
+http://013tv.com:8080/F33848/cbd9779b/306483
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbohits.jpg", group-title= "HBO Group", HBO HITS TS
+http://013tv.com:8080/F33848/cbd9779b/306486
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg", group-title= "HBO Group", HBO NITRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
+#KODIPROP:inputstream.adaptive.manifest__parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
+
 
 <=================== SINGAPORE====================>
 
@@ -2975,6 +3034,112 @@ https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
 https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sharjah_Quran_TV_Logo_2024.png/revision/latest/scale-to-width-down/1200?cb=20241213222234" group-title="ARAB TV",SHARJAH QURAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maraya.sba.net.ae/live/17
+#EXTVLCOPT:http-origin=https://maraya.sba.net.ae
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/com.maraya.icon.2024-11-29-14-45-28.png" group-title="ARAB TV",MARAYA KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maraya.sba.net.ae/live/16
+#EXTVLCOPT:http-origin=https://maraya.sba.net.ae
+https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oz2bPOt.png" group-title="ARAB TV",SHARJAH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maraya.sba.net.ae/live/1
+#EXTVLCOPT:http-origin=https://maraya.sba.net.ae
+https://live.kwikmotion.com/smc1live/smc1tv.smil/smc1publish/smc1tvhd_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Sharjah_TV_Logo_2007.png/revision/latest?cb=20241212234059" group-title="ARAB TV",KABLA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maraya.sba.net.ae/live/4
+#EXTVLCOPT:http-origin=https://maraya.sba.net.ae
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kablatvpublish/kabtv_360p/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Sharjah_TV_Logo_2007.png/revision/latest?cb=20241212234059" group-title="ARAB TV",AL WOUSTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maraya.sba.net.ae/live/5
+#EXTVLCOPT:http-origin=https://maraya.sba.net.ae
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustapublish/alwoustatv_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wd3Xvd1.png" group-title="ARAB TV",SHARJAH 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maraya.sba.net.ae/live/7
+#EXTVLCOPT:http-origin=https://maraya.sba.net.ae
+https://live.kwikmotion.com/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MxZlOvc.png" group-title="ARAB TV",SHARJAH QURAN RADIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://maraya.sba.net.ae/live/8
+#EXTVLCOPT:http-origin=https://maraya.sba.net.ae
+https://live.kwikmotion.com/smcquranlive/quranradiolive/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="ARAB TV",QATAR TV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.qtv.qa/
+#EXTVLCOPT:http-origin=https://www.qtv.qa
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/stream_01/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="ARAB TV",QATAR TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.qtv.qa/
+#EXTVLCOPT:http-origin=https://www.qtv.qa
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/stream_01/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" group-title="ARAB TV",QATAR HOLY QURAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.qtv.qa/
+#EXTVLCOPT:http-origin=https://www.qtv.qa
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/stream_01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="ARAB TV",ALMANAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.almanar.com.lb/
+#EXTVLCOPT:http-origin=https://www.almanar.com.lb
+https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwT2XE3WWG8rF1u7fQcDnkkLAjCM6heS4N8HAZ_FMWl5fQbLiJOKjgAg&s=10" group-title="ARAB TV",OMAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/v1/live?id=MTY4&channelid=MTU4&countries=bnVsbA==&autoplay=true&filter=none&signature=ac9be63a740bf63841e822df4491ad26
+#EXTVLCOPT:http-origin=https://player.mangomolo.com
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b900000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://erc-jordan.org/wp-content/uploads/2024/03/Jordan-TV.jpeg" group-title="ARAB TV",JORDAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.jrtv.gov.jo/
+#EXTVLCOPT:http-origin=https://www.jrtv.gov.jo
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?rid=7f9f8b75c2a1a1f463269bbd80e28250
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3c/Bahrain_tv.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ARAB TV",BAHRAIN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.mia.gov.bh/
+#EXTVLCOPT:http-origin=https://www.mia.gov.bh
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w295184725_b1307000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CDj_SPq4UST-glodKWSEfjudBzpot3-h1820HMmLdUxIJwh1Vc9Sv4c_cjoXd6gNnK7qTD9O3MI=s900-c-k-c0x00ffffff-no-rj" group-title="ARAB TV",BAHRAIN INTERNATIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.mia.gov.bh/
+#EXTVLCOPT:http-origin=https://www.mia.gov.bh
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1397571709_b2487000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2002112204140-L.jpg" group-title="ARAB TV",BAHRAIN QURAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.mia.gov.bh/
+#EXTVLCOPT:http-origin=https://www.mia.gov.bh
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w821572100_b2487000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wN3REXv.png" group-title="ARAB TV"YEMEN TV
+https://live.yementv.tv/memfs/c79810a8-85f6-414f-980b-0ae14ad5228d_output_0_video.m3u8?session=gp3aRab6hYgvDhqsoWDyGw
 
 <=====================AVA==============================>
 
@@ -5034,6 +5199,8 @@ https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCOgmWbn6W6ahOc0QVzuJ65g
 
 <=================MOVIES======================>
 
+
+
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://art.pixilart.com/afe9e5311aad7d6.png" group-title="Premium Movies",Miramax Film
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -5670,6 +5837,35 @@ https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Documentary",WildEarth (1080p)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="Documentary",Viasat EXPLORE 🇬🇧 🇧🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls15/viasat_explore.mpd?n=ayoyoyPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBUEdET1tBVEECwMgMyhcR19SRFZd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="Documentary",Viasat HISTORY 🇬🇧 🇧🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd49f02170eb9448f5a
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="Documentary",Viasat NATURE 🇬🇧 🇧🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
+
+#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History hd
+https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History us
+https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://i.ibb.co.com/BK5DCBY9/cgtn-documentary.png",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
