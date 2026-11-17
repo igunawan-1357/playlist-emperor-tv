@@ -1275,11 +1275,14 @@ https://tvratu.my.id/vid/index.mpd?id=204
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTINF:-1 group-title="VDO"  tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=206&type=drm
-https://tvratu.my.id/vid/index.mpd?id=206&type=dash
+https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=moji
 
 #EXTINF:-1 group-title="VDO"  tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
