@@ -175,7 +175,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cOI1Gcv.jpeg" tvg-id="itzplay.id" group-title="INDONESIA",Jagantara TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9XWkfHHCfTh4ZPVy3RpWS_Ma0fRqfoQP8DbJmUonpKcpDA3dgBwCbiny&s=10" tvg-id="itzplay.id" group-title="INDONESIA",Jagantara TV
 https://flv.intechmedia.net/live/ch119.m3u8
 
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
@@ -183,20 +183,20 @@ https://flv.intechmedia.net/live/ch119.m3u8
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/bntv.jpg" group-title="INDONESIA",BN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="INDONESIA",BN TV
 https://flv.intechmedia.net/live/ch112.m3u8|User-Agent=YouTV/1.5.6-prod.release
 
-#EXTINF:-1 tvg-logo="https://makkahlive.net/posters/madinah.jpg" group-title="INDONESIA",SUNNA TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEQJHfAu8ScHVERJzd5Rm0-m_fnD9HU-RPM_Pr8FwiQ&s=10" group-title="INDONESIA",SUNNA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch13.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="INDONESIA",TVRI Sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/5/58/20230801015834%21TVRI_Sport_2017.png" group-title="INDONESIA",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTVLCOPT:http-origin=https://klik.tvri.go.id
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_500000=10003-mp4a_64000=20001.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="INDONESIA",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://w7.pngwing.com/pngs/383/186/png-transparent-tvri-yogyakarta-logo-television-tvri-jambi-television-blue-text-thumbnail.png" group-title="INDONESIA",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="TVRIWorld.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMttM8TJZr2gQTIN0IFj1Lh2Et_lXiXbWTN_YAEByqg&s=10",TVRI World
@@ -208,17 +208,17 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://garuda.tv/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/garudatv.jpg" group-title="INDONESIA",GARUDA TV
+#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://i.pinimg.com/736x/3c/2c/f9/3c2cf911b9b21fb155cb8c9d3c7d9994.jpg" group-title="INDONESIA",GARUDA TV
 https://hgmtv.com:2020/hls/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="Daai.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="INDONESIA",DAAI TV
+#EXTINF:-1 tvg-id="Daai.TV.id" tvg-name="" tvg-logo="https://daaitv.co.id/DAAI-WP/wp-content/uploads/2023/02/logo-daai-abu.png" group-title="INDONESIA",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://oxygentv.id/
 #EXTVLCOPT:http-origin=https://oxygentv.id
-#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/oxygentv.jpg" group-title="INDONESIA",OXYGEN TV
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://home.oxygen.id/oxygen/logo_Oxygen.png" group-title="INDONESIA",OXYGEN TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 
@@ -318,7 +318,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h233/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mdtv.jpg" group-title="INDONESIA",MDTV (dns)
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mdtv.jpg" group-title="INDONESIA CDG",MDTV (dns)
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -339,7 +339,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h209/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 
 #EXTINF:-1 tvg-id="KompasTV.id" 
-tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="INDONESIA",KompasTV
+tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="INDONESIA CDG",KompasTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
