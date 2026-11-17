@@ -69,6 +69,16 @@ https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://raintbk.com/wp-content/uploads/2025/02/cnbcindonesia-logo.png" group-title="INDONESIA",CNBC Indonesia (dtk)
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/SCTV_%281993%29.png/revision/latest/scale-to-width-down/230?cb=20260215133834" group-title="INDONESIA",SCTV (vdo)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ae/05/16/ae05162c834f439594fdbfb0bd655e4f.jpg" group-title="INDONESIA",INDOSIAR (vdo)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
@@ -136,20 +146,12 @@ https://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204&type=drm
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ae/05/16/ae05162c834f439594fdbfb0bd655e4f.jpg" group-title="INDONESIA",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205&type=drm
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="INDONESIA",ANTV HD
