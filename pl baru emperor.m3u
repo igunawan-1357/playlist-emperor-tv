@@ -165,7 +165,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cOI1Gcv.jpeg" tvg-id="itzplay.id" group-title="INDONESIA",Jagantara TV (feed)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOI1Gcv.jpeg" tvg-id="itzplay.id" group-title="INDONESIA",Jagantara TV
 https://flv.intechmedia.net/live/ch119.m3u8
 
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
@@ -179,6 +179,12 @@ https://flv.intechmedia.net/live/ch112.m3u8|User-Agent=YouTV/1.5.6-prod.release
 #EXTINF:-1 tvg-logo="https://makkahlive.net/posters/madinah.jpg" group-title="INDONESIA",SUNNA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch13.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="INDONESIA",TVRI Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+#EXTVLCOPT:http-origin=https://klik.tvri.go.id
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_500000=10003-mp4a_64000=20001.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="INDONESIA",TVRI Nasional (HLS)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -2456,6 +2462,12 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr@SD" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="KOREA",EBS Plus 2 
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/960px-KBS_World_%282009%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220329001412" group-title="KOREA",KBS WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/kr/y96VZMuCp67Sxq
+#EXTVLCOPT:http-origin=https://tvgarden.world
+https://stream8.cinerama.uz/1448/tracks-v3a1/mono.m3u8
+
 
 
 
@@ -3122,6 +3134,12 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w82157
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wN3REXv.png" group-title="ARAB TV",YEMEN TV
 https://live.yementv.tv/memfs/c79810a8-85f6-414f-980b-0ae14ad5228d_output_0_video.m3u8?session=gp3aRab6hYgvDhqsoWDyGw
+
+#EXTINF:-1 tvg-logo="" group-title="ARAB TV",SAUDI QURAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-origin=
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/saudi_quran-avc1_249984=1-mp4a_145600_ara=3.m3u8
 
 <=====================AVA==============================>
 
