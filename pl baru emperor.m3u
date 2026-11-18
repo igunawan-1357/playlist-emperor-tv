@@ -146,6 +146,9 @@ https://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ae/05/16/ae05162c834f439594fdbfb0bd655e4f.jpg" group-title="INDONESIA CDG",INDOSIAR HD
@@ -183,14 +186,14 @@ https://flv.intechmedia.net/live/ch119.m3u8
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="INDONESIA",BN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/23/1-23060H039390-L.jpg" group-title="INDONESIA",BN TV
 https://flv.intechmedia.net/live/ch112.m3u8|User-Agent=YouTV/1.5.6-prod.release
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEQJHfAu8ScHVERJzd5Rm0-m_fnD9HU-RPM_Pr8FwiQ&s=10" group-title="INDONESIA",SUNNA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch13.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/5/58/20230801015834%21TVRI_Sport_2017.png" group-title="INDONESIA",TVRI Sport
+#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="INDONESIA",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTVLCOPT:http-origin=https://klik.tvri.go.id
@@ -234,13 +237,13 @@ http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eLjHSKm.png?v=1.0.0.1" group-title="INDONESIA", Nusantara TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLjHSKm.png?v=1.0.0.1" group-title="INDONESIA CDG", Nusantara TV
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 
 #EXTINF:-1 tvg-id="magna.tv" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="INDONESIA",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w521170343_b1128000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="INDONESIA",Jawa Pos TV Jakarta
+#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://www.majalahict.com/wp-content/uploads/2020/02/jawa-pos-tv.jpg" group-title="INDONESIA",Jawa Pos TV Jakarta
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="INDONESIA",RTV
@@ -295,7 +298,7 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h216/S1/mnf.m3u8
 #https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="INDONESIA CDG",MOJI (dns)
+#EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="INDONESIA CDG",MOJI
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/QnU70NI.png", Metro TV (dns)
