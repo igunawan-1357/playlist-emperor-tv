@@ -6536,6 +6536,27 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 ##EXTINF:-1 tvg-id="CHCtheater.cn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Shaw_Brothers.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="China",Shaw Brothers action films
 
 ##EXTINF:-1 tvg-id="CHCtheater.cn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Shaw_Brothers.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="China",Shaw Brothers comedies
+
+<========================INDIA========================>
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment Television HD (1080p)
+http://38.96.178.205/SONYHD/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Marathi (576p)
+http://107.167.16.138/sonymarathi/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2 (576p)
+http://107.167.16.138/sonymax2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Entertainment",Star Jalsha HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="Entertainment",Star Maa HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Maa Movies HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+
 <========================BBC=========================>
 
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/500px-BBC_News_2022_%28Alt%29.svg.png" tvg-id="BBCNews.uk" tvg-chno="231" tvg-country="GB" group-title="BBC",BBC News
