@@ -2199,30 +2199,30 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4e08e6a57a334d0bb1c
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
 
 <======================HBO=============================>
+
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79f8g.png" group-title="HBO Group",HBO 
+http://013tv.com:8080/F33848/cbd9779b/306484
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34433
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34571
+
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79nwv.png" group-title="HBO Group",HBO Hits 
+http://013tv.com:8080/F33848/cbd9779b/306486
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34540-o
+
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79otR.png" group-title="HBO Group",HBO Family 
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34348
+
 #EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79IMN.png" group-title="HBO Group",HBO Signature 
+http://013tv.com:8080/F33848/cbd9779b/306483
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34353
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34647
+
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79znp.png" group-title="HBO Group",Cinemax
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34355
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34572
 
-#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79f8g.png" group-title="HBO Group",HBO TS
-http://013tv.com:8080/F33848/cbd9779b/306484
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79IMN.png" group-title="HBO Group",HBO Signature TS
-http://013tv.com:8080/F33848/cbd9779b/306483
-
-#EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79nwv.png" group-title="HBO Group",HBO Hits
-http://013tv.com:8080/F33848/cbd9779b/306486
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.jpg", group-title="HBO Group",HBO NITRO
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2013/01/20130123Logo-HBO-001.jpg" group-title="HBO Group",HBO FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
@@ -6556,6 +6556,25 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY MAX" tvg-logo="https://docdog.top/logo/countries/india/sonymax.png" group-title="ASIA | INDIA",IN: SONY MAX
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53621
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY MAX 2" tvg-logo="https://docdog.top/logo/countries/india/sony-max-2-in.png" group-title="ASIA | INDIA",IN: SONY MAX 2
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53622
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY MIX" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="ASIA | INDIA",IN: SONY MIX
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53623
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY PAL" tvg-logo="https://docdog.top/logo/countries/india/sony-pix-in.png" group-title="ASIA | INDIA",IN: SONY PAL
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53624
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY PIX" tvg-logo="https://docdog.top/logo/countries/india//sonypix.png" group-title="ASIA | INDIA",IN: SONY PIX
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53625
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SAB" tvg-logo="https://docdog.top/logo/countries/india/sony-sab-in.png" group-title="ASIA | INDIA",IN: SONY SAB
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53626
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SAB UK" tvg-logo="https://docdog.top/logo/countries/india/sony-sab-hd-in.png" group-title="ASIA | INDIA",IN: SONY SAB UK
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53627
+#EXTINF:-1 tvg-id="" tvg-name="ISONY TV ASIA" tvg-logo="https://docdog.top/logo/countries/india/sonytvasia.png" group-title="ASIA | INDIA",IN: SONY TV ASIA
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53632
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONIC NICKELODEON" tvg-logo="https://docdog.top/logo/countries/india/nickelodeon-sonic-in.png" group-title="ASIA | INDIA",IN: SONIC NICKELODEON
+http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/53616
 
 <========================BBC=========================>
 
