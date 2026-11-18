@@ -15,58 +15,43 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e14061fc-df59-4596-a365-0cf88a0faa1f/dge5776-fabbfbe7-c58e-438b-9ae2-ceb27ab08b86.png/v1/fill/w_1280,h_443/trans_7_2006_logo_remake_by_ap41ii_dge5776-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDQzIiwicGF0aCI6Ii9mL2UxNDA2MWZjLWRmNTktNDU5Ni1hMzY1LTBjZjg4YTBmYWExZi9kZ2U1Nzc2LWZhYmJmYmU3LWM1OGUtNDM4Yi05YWUyLWNlYjI3YWIwOGI4Ni5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.B8FaaJflEE0JoIx_iz2FayuORToY3nrW6GY_y2l2o08" group-title="INDONESIA",TRANS 7
 https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="" tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv.bdbaf66.png" group-title="INDONESIA",Indonesiana TV
-https://tvstreamcast.com/indonesiana.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TheIndonesiaChannel.mana2" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="INDONESIA",THE INDONESIA CHANNEL
-https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=nbyNcn6zyXaUxFnXPYkdhw
-
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="INDONESIA" tvg-name="GTV" tvg-logo="https://i.imgur.com/jjuKnYs.png",GTV (r+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/M2R3lfg.png",iNews (r+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Slogan-MNCTV-2010.png/revision/latest?cb=20190628085823" group-title="INDONESIA",MNC TV (r+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="INDONESIA",RCTI (r+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="INDONESIA CDG",RCTI 
 https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="INDONESIA CDG",MNC TV
-https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
-
-#EXTINF:-1 tvg-id="GTV.id@SD" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="INDONESIA CDG",Global TV
-https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
-
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png" group-title="INDONESIA CDG",iNews
-https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://video.detik.com/
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDONESIA",CNN Indonesia (dtk)
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDONESIA",CNN Indonesia
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://video.detik.com/
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://raintbk.com/wp-content/uploads/2025/02/cnbcindonesia-logo.png" group-title="INDONESIA",CNBC Indonesia (dtk)
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://raintbk.com/wp-content/uploads/2025/02/cnbcindonesia-logo.png" group-title="INDONESIA",CNBC Indonesia
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="INDONESIA",SCTV
@@ -99,18 +84,6 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 #https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://banner2.cleanpng.com/20180531/ezf/avo3teupx.webp" group-title="INDONESIA CDG",INDOSIAR (filex)
-https://filex.me:8443/live/1234567/7654321/302264.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://rec-data.kalibrr.com/www.kalibrr.com/logos/ZFPY866LZHNUKWH8VJFUSS7KMAA5VV92WU7AGKGS-5de0d0e1.jpg" group-title="INDONESIA CDG",MOJI (Filex)
-http://filex.me:8080/live/1234567/7654321/302279.ts
-
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo/refs/heads/queen/indosiar.png" group-title="INDONESIA CDG",INDOSIAR (vid)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
@@ -135,13 +108,25 @@ https://vidio123.mikrofast.web.id/vidio/204/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/19046/index.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://banner2.cleanpng.com/20180531/ezf/avo3teupx.webp" group-title="INDONESIA CDG",INDOSIAR VIP
+https://filex.me:8443/live/1234567/7654321/302264.ts
+https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/indosiar.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://rec-data.kalibrr.com/www.kalibrr.com/logos/ZFPY866LZHNUKWH8VJFUSS7KMAA5VV92WU7AGKGS-5de0d0e1.jpg" group-title="INDONESIA CDG",MOJI VIP
+http://filex.me:8080/live/1234567/7654321/302279.ts
+https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/moji.m3u8
+
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="INDONESIA CDG",SCTV (cdg)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/sctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ae/05/16/ae05162c834f439594fdbfb0bd655e4f.jpg" group-title="INDONESIA CDG",INDOSIAR (cdg)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/indosiar.m3u8
 
 #EXTINF:-1 tvg-name="KidsTV.id" tvg-logo="https://beetv.my.id/logo/vtv.png" group-title="INDONESIA",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -224,13 +209,21 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png" group-title="INDONESIA",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Logo_MIC_Channel.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="INDONESIA",Music Indonesia Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="" tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv.bdbaf66.png" group-title="INDONESIA",Indonesiana TV
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.mana2" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="INDONESIA",THE INDONESIA CHANNEL
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=nbyNcn6zyXaUxFnXPYkdhw
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi3J0bkm3oJpM7CnsUi5P2unzee0VpiufK7qoKPq3-PU_VDZpLC3qeaxNz1jHF3yvjKkclG406IEqPYMtCbbqVD1zPgJKQ7O6Rg7_eHrMPq-KsqJ11tP4XNplRq_SCuTtcaSYuGDyxF4zYT6sM1MNWTGoA2HeFeIlWadehCRQfNqHMLEUqpR1sgPv5a=s16000" group-title="INDONESIA",Music Indonesia Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn.siar.us/
 #EXTVLCOPT:http-origin=https://cdn.siar.us
 https://mic.siar.us/mic/live/mic_480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_Efarina_TV.png/330px-Logo_Efarina_TV.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="INDONESIA",Efarina Tv
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR2LoCiBRuBT7P8uFCB8uyx2vMfUlzQQ5RJ4zHq2X0DWQ1kXPwBzmSAVuyq3RZI7yCB42zIRYBFjhn1H6e6av80gmwY_kdNQS-_0EFTbBVpcxmMBZy4Mygzme6ZIiFY80OjdU4TGu8JZI/s1600/channel-efarina-tv-satelitmania.jpg" group-title="INDONESIA",Efarina Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efarinatv.com/
 #EXTVLCOPT:http-origin=https://efarinatv.com
@@ -6969,6 +6962,97 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1090980&exten
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1091524&extension=ts&play_token=XPo1nuuxd9
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h.jpg" group-title="SPORT",STARSPORTSELECT 2 HD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=373201&extension=ts&play_token=B3HihYvCSV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 1 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894968&extension=ts&play_token=LEwOxQcokG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 2 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894969&extension=ts&play_token=YQki5daGhk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 3 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894970&extension=ts&play_token=g11q3yKSRQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 4 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894971&extension=ts&play_token=cMjfa1WfhC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 5 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894972&extension=ts&play_token=4KnLQFciHk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 6 HD [NL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894973&extension=ts&play_token=uZdKG6fw6s
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ DAZN 1 HD [DE]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894974&extension=ts&play_token=GiWXT38CQo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ DAZN 2 HD [DE]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894975&extension=ts&play_token=ZTaSxYfBAq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ AMAZON PRIME EVENT HD [DE]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894976&extension=ts&play_token=ZiirqEyOLb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 1 HD [UK]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894977&extension=ts&play_token=qvpfyxg1cc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 2 HD [UK]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894978&extension=ts&play_token=ym952qVAUT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 3 HD [UK]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894979&extension=ts&play_token=QJ3uNQImHG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 4 HD [UK]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894980&extension=ts&play_token=wpGX9RdTdS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 5 HD [UK]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894981&extension=ts&play_token=35fZNQF9uv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 1 HD [ES]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894989&extension=ts&play_token=c3NJKIP5re
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 2 HD [ES]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894990&extension=ts&play_token=LzlOrghgD0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 3 HD [ES]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894991&extension=ts&play_token=cSyBOAQ7UY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 4 HD [ES]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894992&extension=ts&play_token=zntmhxnuX2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 5 HD [ES]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894993&extension=ts&play_token=nkMoK0DxkU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ M+ LIGA DE CAMPEONES 6 HD [ES]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894994&extension=ts&play_token=l8RnmplDCK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ BEIN SPORTS 1 HD [AR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894995&extension=ts&play_token=CDU2liGy8k
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ BEIN SPORTS 2 HD [AR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894996&extension=ts&play_token=AfQanqh0y7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ BEIN SPORTS 3 HD [AR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894997&extension=ts&play_token=hKiR2gfy45
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894986&extension=ts&play_token=rHGXO81YMD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ SPORT HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894987&extension=ts&play_token=ubgGufZ80V
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ FOOT HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894988&extension=ts&play_token=XSIHJulwf3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 1 HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894982&extension=ts&play_token=Ku3fqPAGuk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 2 HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894983&extension=ts&play_token=6XuGuFffV2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 3 HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894984&extension=ts&play_token=w6l6dNG8jo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ CANAL+ LIVE 4 HD [FR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894985&extension=ts&play_token=ndPMTPKMmW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ SKY SPORT UNO HD [IT]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894998&extension=ts&play_token=cW37zqzGAw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 1 HD [AL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895006&extension=ts&play_token=1Vl8wJONgP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 2 HD [AL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895007&extension=ts&play_token=spZrfhxf6l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 3 HD [AL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895008&extension=ts&play_token=LolOjQq0hI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 4 HD [AL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895009&extension=ts&play_token=IQgR5lK1Rl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TRING SPORT 5 HD [AL]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895010&extension=ts&play_token=tuc5pNEWll
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR HD [TR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=894999&extension=ts&play_token=BjEnhzokqu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 1 HD [TR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895000&extension=ts&play_token=MBFj7hCaTb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 2 HD [TR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895001&extension=ts&play_token=8lDkaHMzpU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 3 HD [TR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895002&extension=ts&play_token=kWeqFvaMg5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 4 HD [TR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895003&extension=ts&play_token=kz5weF2WPp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 5 HD [TR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895004&extension=ts&play_token=8tDchk4rH1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="SHAREEXT@ ┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TABII SPOR 6 HD [TR]
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=895005&extension=ts&play_token=y4dY78gbb3
+#EXTINF:-1 tvg-logo="" group-title="SPORT",DAZN 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=894974&extension=ts&play_token=hILX4HislN
+#EXTINF:-1 tvg-logo="" group-title="SPORT",DAZN 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=894975&extension=ts&play_token=3tzJNFhfNk
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jSbawN.png" group-title="SPORT",SUPER SPORT 1
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:31:09:69&stream=854450&extension=ts&play_token=pJFU6oSiaS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="SPORT",SUPER SPORT 2
@@ -6978,26 +7062,15 @@ http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:31:09:69&stream=854448&extens
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="SPORT",SUPER SPORT 4
 http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:31:09:69&stream=854449&extension=ts&play_token=rxksYkySAx
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YzDPXG5.png" group-title="SPORT",VISION SPORT
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1017405&extension=ts&play_token=w0yQ4LmjLX
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",BEIN SPORT AUST
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/986957.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT",DAZN 1
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=894974&extension=ts&play_token=hILX4HislN
-#EXTINF:-1 tvg-logo="" group-title="SPORT",DAZN 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=894975&extension=ts&play_token=3tzJNFhfNk
-
 #EXTINF:-1 group-title="SPORT",SPORT TV 1
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1030794.ts
 #EXTINF:-1 group-title="SPORT",SPORT TV 2
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/68423.ts
 #EXTINF:-1 group-title="SPORT",SPORT TV 3
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/68422.ts
-#EXTINF:-1 group-title="SPORT",SPORT TV 4
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=107433&extension=ts&play_token=iSdO1BfyDy
-#EXTINF:-1 group-title="SPORT",SPORT TV 5
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=1809290&extension=ts&play_token=aPvawsmHYO
 #EXTINF:-1 group-title="SPORT",SPORTV 1
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1028480.ts
 #EXTINF:-1 group-title="SPORT",SPORTV 2
@@ -7008,8 +7081,19 @@ http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1028482.ts
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1247898.ts
 #EXTINF:-1 group-title="SPORT",SPOTV 2
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/1247899.ts
+
+#EXTINF:-1 group-title="SPORT",SPORT TV 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=107433&extension=ts&play_token=iSdO1BfyDy
+#EXTINF:-1 group-title="SPORT",SPORT TV 5
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=1809290&extension=ts&play_token=aPvawsmHYO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzDPXG5.png" group-title="SPORT",VISION SPORT
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1017405&extension=ts&play_token=w0yQ4LmjLX
+
+
 #EXTINF:-1 group-title="SPORT",UFC 1
 http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:BD:C7:0C&stream=825538&extension=ts&play_token=1IRMa06c58
+
 #EXTINF:-1 group-title="SPORT",VIA PLAY 4K
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C7:08:3E&stream=1157578&extension=ts&play_token=eTs0yzbulu
 
@@ -7079,7 +7163,6 @@ http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158834
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/P5RTyt7r/ezgif-8739420ec07149a5.png", ELTA SPORTS 2 (test)
 http://royaltv.world:25461/live/O1008/5132/31975.ts
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/DZQ99Fxp/ezgif-8f9dbedb092ff151.png", ELTA SPORTS 3 (test)
 http://royaltv.world:25461/live/O1008/5132/32309.ts
@@ -7112,12 +7195,10 @@ http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158776
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158777
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", TW: Bosch Golf 1 博斯高球1
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158778
-
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", HUB•SPORT 1 (SGP)
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34778.ts
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", HUB•SPORT 2 (SGP)
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34777.ts
-
 #EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier1.png" group-title="ShareExt@Relax",UK: HUB SPORTS 1
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146827
 #EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier2.png" group-title="ShareExt@Relax",UK: HUB SPORTS 2
@@ -7297,10 +7378,6 @@ http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceSn=84F4AB37DF6E6&d
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ SG ∆ MALAYSIA ➾ SPORTS", ASTRO CRICKET
 http://tv.cloudcdn.me/live.ts?channelId=128494&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
-
-
-
-<===========================BEIN=========================>
 #EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",BEIN SPORTS 1 (cloud) 
 http://tv.cloudcdn.me:80/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 #EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports2.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",BEIN SPORTS 2 (cloud) 
@@ -7315,6 +7392,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=133117&uid=10223&deviceMac=00:1A:79:0
 http://tv.cloudcdn.me:80/live.ts?channelId=133045&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 #EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SHAREEXT@ INDONESIA鈥PORTS",SPOTV 2 (cloud)
 http://tv.cloudcdn.me:80/live.ts?channelId=133046&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+
+
+<===========================BEIN=========================>
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="BEIN",AR: BEIN SPORTS 1
 http://poseidon.neorpahe.top:8080/3571790698170/613a3d618652/25106
