@@ -153,9 +153,6 @@ https://flv.intechmedia.net/live/ch13.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="Indonesia Channels",KompasTV
 https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="BNChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="Indonesia Channels",BN Channel
-https://flv.intechmedia.net/live/ch112.m3u8?
-
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Indonesia Channels",MetroTV
 https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
 
@@ -213,13 +210,17 @@ https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTVLCOPT:http-origin=https://klik.tvri.go.id
+https://flv.intechmedia.net/live/ch115.m3u8|user-agent=Mozilla/5.0
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_500000=10003-mp4a_64000=20001.m3u8
+
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://w7.pngwing.com/pngs/383/186/png-transparent-tvri-yogyakarta-logo-television-tvri-jambi-television-blue-text-thumbnail.png" group-title="INDONESIA",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+https://flv.intechmedia.net/live/ch113.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="TVRIWorld.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMttM8TJZr2gQTIN0IFj1Lh2Et_lXiXbWTN_YAEByqg&s=10",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-name="IMC.id" tvg-logo="https://beetv.my.id/logo/jitv.png" group-title="INDONESIA",JITV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240610 (Linux;Android 10) ExoPlayerLib/2.18.1
@@ -229,6 +230,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://i.pinimg.com/736x/3c/2c/f9/3c2cf911b9b21fb155cb8c9d3c7d9994.jpg" group-title="INDONESIA",GARUDA TV
 https://hgmtv.com:2020/hls/garudatvlivestreaming/garudatvlivestreaming.m3u8
+https://flv.intechmedia.net/live/ch104.m3u8|user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="Daai.TV.id" tvg-name="" tvg-logo="https://daaitv.co.id/DAAI-WP/wp-content/uploads/2023/02/logo-daai-abu.png" group-title="INDONESIA",DAAI TV
