@@ -271,7 +271,7 @@ https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/20
 #EXTINF:-1 tvg-id="DuniaLain.id@SD" group-title="TRV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dunialain.png",Dunia Lain
 https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/230-Ymlvc2tvcC1pbmRvbmVzaWEtc2N0ZTM1/bioskop-indonesia/live.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="TRV, Khazanah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="TRV", Khazanah
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
