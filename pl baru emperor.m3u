@@ -123,10 +123,10 @@ http://filex.me:8080/live/1234567/7654321/302279.ts
 https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/moji.m3u8
 
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="INDONESIA CDG",SCTV (cdg)
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="INDONESIA CDG",SCTV VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/sctv.m3u8
-
+http://aflaxtv.xyz:8080/F33848/cbd9779b/162141
 
 #EXTINF:-1 tvg-name="KidsTV.id" tvg-logo="https://beetv.my.id/logo/vtv.png" group-title="INDONESIA",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -7509,6 +7509,27 @@ http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157592
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158702
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/CANAL_SPORT_6.png" group-title="SPORT VIP",PL: CANAL+ SPORT 6
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158703
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/bJq8jMV3/j-sports-1-jp.png",J SPORTS 1
+https://ri.shinori.my.id/pxx.php?shk_cid=bs18
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/Gt2C4DCB/j-sports-2-jp.png",J SPORTS 2
+https://ri.shinori.my.id/pxx.php?shk_cid=bs19
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/RVWm9wGB/j-sports-3-jp.png",J SPORTS 3
+https://ri.shinori.my.id/pxx.php?shk_cid=bs21
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/bwbjS8KW/j-sports-4-jp.png",J SPORTS 4
+https://ri.shinori.my.id/pxx.php?shk_cid=bs22
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/T1hzdXVs/sky-a-jp.png",SKY A
+https://ri.shinori.my.id/pxx.php?shk_cid=cs01
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/hj4FYmfF/golf-network-jp.png",GOLF NETWORK
+https://ri.shinori.my.id/pxx.php?shk_cid=cs03
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/qB5fmz0k/gaora-sportspng-jp.png",GAORA SPORTS
+https://ri.shinori.my.id/pxx.php?shk_cid=cs17
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",TW: ELTA SPORTs 1 FHD
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/158834
 
@@ -7557,6 +7578,21 @@ http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146827
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146826
 #EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="ShareExt@Relax",UK: HUB SPORTS 3
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146825
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-id="" tvg-name="RS SPORTS" tvg-logo="https://i.postimg.cc/Ghfj3J9t/rs-sport01.png", RS SPORTS
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-id="" tvg-name="RS SPORTS 2" tvg-logo="https://i.postimg.cc/jd1hqQCL/rs-sport02.png", RS SPORTS 2
+https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-id="" tvg-name="RS SPORTS 3" tvg-logo="https://i.postimg.cc/28txjF3L/rs-sport03.png", RS SPORTS 3
+https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-id="" tvg-name="RS SPORTS 4" tvg-logo="https://i.postimg.cc/dtf9QmDy/rs-sport04.png", RS SPORTS 4
+https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-id="" tvg-name="RS SPORTS 5" tvg-logo="https://i.postimg.cc/c4zc1M6Y/rs-sport05.png", RS SPORTS 5
+https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8
 
 <=======================Server CLOUD=====================>
 
