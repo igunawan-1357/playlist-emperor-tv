@@ -150,17 +150,14 @@ https://flv.intechmedia.net/live/ch112.m3u8|User-Agent=YouTV/1.5.6-prod.release
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch13.m3u8
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="Indonesia Channels",KompasTV
-https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Indonesia Channels",MetroTV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="INDONESIA",MetroTV
 https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="Indonesia Channels",TVOne
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="INDONESIA",TVOne
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="INDONESIA CDG", KompasTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="INDONESIA", KompasTV 
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -211,7 +208,6 @@ https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTVLCOPT:http-origin=https://klik.tvri.go.id
 https://flv.intechmedia.net/live/ch115.m3u8|user-agent=Mozilla/5.0
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_500000=10003-mp4a_64000=20001.m3u8
 
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://w7.pngwing.com/pngs/383/186/png-transparent-tvri-yogyakarta-logo-television-tvri-jambi-television-blue-text-thumbnail.png" group-title="INDONESIA",TVRI Nasional
@@ -251,7 +247,7 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTINF:-1 tvg-id="Insert.id" tvg-name="!nsert" tvg-logo="https://mimipipi22.github.io/logo/entertainment/insert.jpg" group-title="INDONESIA",!NSERT (trv)
 https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/330-aW5zZXJ0LWNoLXNjdGUzNQ/live.mpd
-###https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
