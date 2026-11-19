@@ -203,6 +203,8 @@ https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="INDONESIA",TVRI Sport
 https://flv.intechmedia.net/live/ch115.m3u8|user-agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Tvri sport
+https://flv.intechmedia.net/live/ch115.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://w7.pngwing.com/pngs/383/186/png-transparent-tvri-yogyakarta-logo-television-tvri-jambi-television-blue-text-thumbnail.png" group-title="INDONESIA",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
