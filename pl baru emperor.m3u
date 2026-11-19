@@ -146,10 +146,6 @@ https://flv.intechmedia.net/live/ch119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/23/1-23060H039390-L.jpg" group-title="INDONESIA",BN TV
 https://flv.intechmedia.net/live/ch112.m3u8|User-Agent=YouTV/1.5.6-prod.release
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEQJHfAu8ScHVERJzd5Rm0-m_fnD9HU-RPM_Pr8FwiQ&s=10" group-title="INDONESIA",SUNNA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch13.m3u8
-
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="INDONESIA",MetroTV
 https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
 
@@ -173,6 +169,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTINF:-1 tvg-id="magna.tv" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="INDONESIA",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w521170343_b1128000_sleng.m3u8
+https://flv.intechmedia.net/live/ch111.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://www.majalahict.com/wp-content/uploads/2020/02/jawa-pos-tv.jpg" group-title="INDONESIA",Jawa Pos TV Jakarta
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
@@ -1248,6 +1245,50 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
 
 <==================TV LOKAL=======================>
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/00Ifzgo.png" group-title="TV LOKAL",SALAM TV
+https://flv.intechmedia.net/live/ch12.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV LOKAL",As Sunnah An Nabawiah
+https://flv.intechmedia.net/live/ch13.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV LOKAL",Al Quran Al kareem
+https://flv.intechmedia.net/live/ch14.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="TV LOKAL",MQTV
+https://flv.intechmedia.net/live/ch34.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmMIUgsLbmH712Lyr0DNih9XEwUrZ5_kntDWtdHgPEg&s" group-title="TV LOKAL",Intech 1
+https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="Ashill.id" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="TV LOKAL",Ashill TV
+https://flv.intechmedia.net/live/ch2.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="surau.id" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="TV LOKAL",Surau TV
+https://flv.intechmedia.net/live/ch3.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="ahsan.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="TV LOKAL",Ahsan TV
+https://flv.intechmedia.net/live/ch4.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="muadz.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="TV LOKAL",Muadz TV
+https://flv.intechmedia.net/live/ch5.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.naajiyatv.com/asset/logo-naajiyatv-lg.webp" group-title="TV LOKAL",Naajiya TV
+https://flv.intechmedia.net/live/ch7.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="naajiya.id" tvg-logo="https://i.imgur.com/bVN4zj2.png" group-title="TV LOKAL",Hijrah TV
+https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="aliman.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="TV LOKAL",Al Iman TV
+https://flv.intechmedia.net/live/ch9.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="rinjani.id" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="TV LOKAL",Rinjani TV
+https://flv.intechmedia.net/live/ch32.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="rinjani.id" tvg-logo="https://imgur.com/ZhmsbCJ" group-title="TV LOKAL",Al Furqon TV
+https://flv.intechmedia.net/live/ch24.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="rinjani.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmMIUgsLbmH712Lyr0DNih9XEwUrZ5_kntDWtdHgPEg&s" group-title="TV LOKAL",Intech 22
+https://flv.intechmedia.net/live/ch22.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="BandungTV.id@SD" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="TV LOKAL",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
