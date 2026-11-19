@@ -2482,6 +2482,13 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2|User-Agent=Mozilla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g12NBOV.jpeg" tvg-id="itzplay.id" group-title="KOREA",SPOTV Golf+ 
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_golf_health_replace_cookie
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://www.kbsn.co.kr/m/images/cont/ch01.png" tvg-id="itzplay.id" group-title="KOREA",KBS Drama
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_drama
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/eb206a141647023.62591951c26d4.jpg" tvg-id="itzplay.id" group-title="KOREA",SBS Golf
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
