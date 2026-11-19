@@ -1167,7 +1167,7 @@ https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Entertainment & LifeStyle",Rock Entertainment (Vision+)
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Premium Movies",Rock Entertainment (Vision+)
 https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 
 <=================TVRI DAERAH===========================>
@@ -2382,18 +2382,6 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 <=========================KOREA============================>
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" group-title="KOREA",tvN story
-https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" group-title="KOREA",tvN show
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://jejumbc.com/main/images/news/jj1.jpg" group-title="KOREA",MBC
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1QLRSp6XcqEwKHdbGSjpYTuAeI90NnVJzJX1Wp-8f6g&s=10" group-title="KOREA",JTBC Golf KR
-http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KOREA",SBS
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" group-title="KOREA",EBS 1TV
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 
@@ -2412,11 +2400,88 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr@SD" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="KOREA",EBS Plus 2 
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" group-title="KOREA",tvN story
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" group-title="KOREA",tvN show
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://jejumbc.com/main/images/news/jj1.jpg" group-title="KOREA",MBC
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1QLRSp6XcqEwKHdbGSjpYTuAeI90NnVJzJX1Wp-8f6g&s=10" group-title="KOREA",JTBC Golf KR
+http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KOREA",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/960px-KBS_World_%282009%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220329001412" group-title="KOREA",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/kr/y96VZMuCp67Sxq
 #EXTVLCOPT:http-origin=https://tvgarden.world
 https://stream8.cinerama.uz/1448/tracks-v3a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/40/2/kbs-1-logo-png_seeklogo-403416.png" tvg-id="itzplay.id" group-title="KOREA",KBS 1 KR
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://www.kdramakopi.com/wp-content/uploads/2025/07/kbs2.jpg" tvg-id="itzplay.id" group-title="KOREA",KBS 2 KR
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MBC_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-id="itzplay.id" group-title="KOREA",MBC KR
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwG6R9CcsYVd8fL-k2VM04zOHlFgBk5YaQjToGyAF0MxfOvw8BX-NjFw9c&s=10" tvg-id="itzplay.id" group-title="KOREA",SBS KR
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZMVYxx3TVttofQU_3ChNOfV3tzqJYNL1v2qTVouBeA&s" tvg-id="itzplay.id" group-title="KOREA",JTBC KR
+http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg" tvg-id="itzplay.id" group-title="KOREA",TVN KR
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvn
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4OjNivS-UBPyrUZHTAhj66Y_xqGKY5Otf5uoV_M87sv0jYqIPp1xIgUqa&s=10" tvg-id="itzplay.id" group-title="KOREA",TVN SPORTS 
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1097354250122813440/M4P9SP9M_400x400.png" tvg-id="itzplay.id" group-title="KOREA",MBC SPORTS
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://m.imaeil.com/photos/2018/03/20/2018032011485662542_m.jpg" tvg-id="itzplay.id" group-title="KOREA",SBS SPORTS
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_sports
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://image.fnnews.com/resource/media/image/2012/06/13/201206131834159139_e.jpg" tvg-id="itzplay.id" group-title="KOREA",KBSN SPORTS
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_n_sports
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVmZjcL.jpeg" tvg-id="itzplay.id" group-title="KOREA",SPOTV Prime+
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZcLJYtL.jpeg" tvg-id="itzplay.id" group-title="KOREA",SPOTV Prime 2 
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G34ESlN.jpeg" tvg-id="itzplay.id" group-title="KOREA",SPOTV Prime 
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8AlXOE.jpeg" tvg-id="itzplay.id" group-title="KOREA",SPOTV 
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_replace_cookie
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/862RVQD.jpeg" tvg-id="itzplay.id" group-title="KOREA",SPOTV 2 
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv2_replace_cookie
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g12NBOV.jpeg" tvg-id="itzplay.id" group-title="KOREA",SPOTV Golf+ 
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_golf_health_replace_cookie
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3884,29 +3949,6 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8AlXOE.jpeg" tvg-id="itzplay.id" group-title="Sports", Philippines  ▎SPOTV
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVmZjcL.jpeg" tvg-id="itzplay.id" group-title="Sports",South Korea  ▎SPOTV Prime+
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZcLJYtL.jpeg" tvg-id="itzplay.id" group-title="Sports", South Korea  ▎SPOTV Prime 2 
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G34ESlN.jpeg" tvg-id="itzplay.id" group-title="Sports", South Korea  ▎SPOTV Prime 
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a8AlXOE.jpeg" tvg-id="itzplay.id" group-title="Sports", South Korea  ▎SPOTV 
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_replace_cookie
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/862RVQD.jpeg" tvg-id="itzplay.id" group-title="Sports", South Korea  ▎ SPOTV 2 
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv2_replace_cookie
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g12NBOV.jpeg" tvg-id="itzplay.id" group-title="Sports", South Korea  ▎ SPOTV Golf+ 
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_golf_health_replace_cookie
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
@@ -5234,7 +5276,7 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="HBO Group",Cinemax (United States) West
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 
-#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony/Star",Cine Sony
+#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Movies",Cine Friki (1080p)
@@ -5284,68 +5326,6 @@ http://69.30.245.50/live/chcdz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwBldBE.png" group-title="Movies" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", CHC HOME THEATER
 http://69.30.245.50/live/chcjt.m3u8
 
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8783 .png",Z!Action HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31694/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8784.png",Z!Adventure HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31698/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8821.png",Z!Biography HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31697/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/1113.png",Z!Channel HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/14134/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/1114.png",Z!Comedy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/14135/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/1115.png",Z!Crime HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/14136/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8785.png",Z!Detective HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31699/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8786.png",Z!Drama HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31700/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8787.png",Z!Family HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31701/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8788.png",Z!Fantastic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31702/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8789.png",Z!Fantasy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31703/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8791.png",Z!Fun HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31706/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8819.png",Z!History HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31695/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/1116.png",Z!Horror HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/14137/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8820.png",Z!Military HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31696/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8790.png",Z!Russian HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31704/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8822.png",Z!Science HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31705/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/5898.png",Z!Serial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/15140/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/5899.png",Z!Sitcom HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/15141/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/5900.png",Z!Smile HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/15142/index.m3u8
-
-#EXTINF:-1 group-title="⭐MOVIES⭐" tvg-logo="http://epg.one/img2/8782.png",Z!Thriller HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31693/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
