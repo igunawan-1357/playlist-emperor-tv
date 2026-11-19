@@ -1152,6 +1152,8 @@ https://proxy-v.rctiplus.id/live/web/ss1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/ss2/index.m3u8
+#EXTINF:-1 tvg-id="Sportstars4.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png" group-title="VISION P",Sportstars 4
+https://proxy-v.rctiplus.id/live/web/ss4/index.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa@SD" group-title="VISION P" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_alquranalkareem.png",Al Quran Al Kareem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1160,6 +1162,13 @@ https://proxy-v.rctiplus.id/live/web/alquran/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/muslimtv/index.m3u8
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Entertainment & LifeStyle",Rock Action (Vision+)
+https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Entertainment & LifeStyle",Rock Entertainment (Vision+)
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 
 <=================TVRI DAERAH===========================>
 
