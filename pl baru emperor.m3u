@@ -6644,7 +6644,6 @@ https://d10c3fwb9yju0h.cloudfront.net/3.m3u8
 #EXTVLCOPT:http-origin=https://tvgarden.world
 https://d144py1prrd7ns.cloudfront.net/smrfe_360.m3u8
 
-
 #EXTINF:-1 tvg-id="BobEsponja.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="TV SHOW",Bob Esponja (720p)
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 
@@ -6708,6 +6707,75 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd?encoding=segmentBase
+
+<========================XOILACZ======================°°=>
+
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 1
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 2
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 3
+https://live2.jorvakstreamcache.com/live/channel3.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 4
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 5
+https://live2.jorvakstreamcache.com/live/channel5.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 6
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 7
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 8
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 9
+https://live2.jorvakstreamcache.com/live/channel9.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 10
+https://live2.jorvakstreamcache.com/live/channel10.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 11
+https://live2.jorvakstreamcache.com/live/channel11.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 12
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 13
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 14
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 15
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 16
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 17
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 18
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 19
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 20
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 21
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 22
+https://live2.jorvakstreamcache.com/live/channel22.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 23
+https://live2.jorvakstreamcache.com/live/channel23.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 24
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 25
+https://live2.jorvakstreamcache.com/live/channel25.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 26
+https://live2.jorvakstreamcache.com/live/channel26.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 27
+https://live2.jorvakstreamcache.com/live/channel27.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 28
+https://live2.jorvakstreamcache.com/live/channel28.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 29
+https://live2.jorvakstreamcache.com/live/channel29.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 30
+https://live2.jorvakstreamcache.com/live/channel30.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 31
+https://live2.jorvakstreamcache.com/live/channel31.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 32
+https://live2.jorvakstreamcache.com/live/channel32.m3u8
+#EXTINF:-1 group-title="XOILAC" tvg-logo="https://fueler.io/storage/users/avatar/xoilaczvipp_avatar_1778490455.png",XOILACZ 33
+https://live2.jorvakstreamcache.com/live/channel33.m3u8
 
 <========================MUROTAL 30 JUZ=======================>
 
