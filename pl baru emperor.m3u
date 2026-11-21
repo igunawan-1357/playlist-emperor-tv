@@ -20,6 +20,7 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-name="GTV" tvg-logo="https://i.imgur.com/jjuKnYs.png",GTV (r+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34331
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/M2R3lfg.png",iNews (r+)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -32,13 +33,14 @@ https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34326
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="INDONESIA",RCTI (r+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
-
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34322
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -112,6 +114,7 @@ https://vidio123.mikrofast.web.id/vidio/19046/index.mpd
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://banner2.cleanpng.com/20180531/ezf/avo3teupx.webp" group-title="INDONESIA CDG",INDOSIAR VIP
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34327
 https://filex.me:8443/live/1234567/7654321/302264.ts
 https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/indosiar.m3u8
 
@@ -1568,7 +1571,40 @@ https://cuwf8jayq1.tenbytecdn.com/live/freemovies/abr/freemovies_1080p/chunks.m3
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sooka_Jom_Ngaji.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",JOM NGAJI
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
 
-<============THAILAND=============>
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia",TV 3
+http://tv.cloudcdn.me:80/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+#EXTINF:-1 group-title="🔴MALAYSIA" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/LogoTV9_2006.png/revision/latest?cb=20180922122502",9 TV
+http://tv.cloudcdn.me:80/live.ts?channelId=93777&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",Astro Prima
+http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/Astro_Aura_2020.png/revision/latest?cb=20221031072603&path-prefix=vi" group-title="Malaysia",Astro Aura
+http://tv.cloudcdn.me:80/live.ts?channelId=132149&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20240923154743" group-title="Malaysia",Astro Ceria
+http://tv.cloudcdn.me:80/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_Ria_Plus_%283D%29.png/revision/latest?cb=20260403170024" group-title="Malaysia",Astro Ria
+http://tv.cloudcdn.me:80/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/Astro_Tutor_TV_logo.png/revision/latest?cb=20230515101105&path-prefix=vi" group-title="Malaysia",Astro Tutor
+http://tv.cloudcdn.me:80/live.ts?channelId=132153&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Rania_%28Nov_2024%29.png/revision/latest?cb=20241121174652" group-title="Malaysia",Astro Rania
+http://tv.cloudcdn.me:80/live.ts?channelId=132151&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7c/Astro_Oasis_HD_Black.png/revision/latest/scale-to-width-down/732?cb=20240225150814&path-prefix=vi" group-title="Malaysia",Astro Oasis
+http://tv.cloudcdn.me:80/live.ts?channelId=93735&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Astro_AOD.png/revision/latest/scale-to-width-down/250?cb=20240923152721" group-title="Malaysia",Astro Aod
+http://tv.cloudcdn.me:80/live.ts?channelId=132147&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Astro_AEC_HD_logo.png/revision/latest/smart/width/386/height/259?cb=20240923125133" group-title="Malaysia",Astro Aec
+http://tv.cloudcdn.me:80/live.ts?channelId=132479&uid=10223&deviceMac=00:1A:79:99:EC:D3
+
+<=====================≠==================THAILAND=======================================>
 
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png" group-title="THAILAND ",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -3763,21 +3799,29 @@ https://webtvstream.bhtelecom.ba/hls10/arena7.mpd?n=browsernull-cdn.sam.net
 <==========================ESPN=================>
 
 
-#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="Premium Sport",ESPN HD (720p)
+#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="Premium Sport",ESPN HD
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="Premium Sport",ESPN 2 HD (720p)
+#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="Premium Sport",ESPN 2 HD
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Premium Sport",ESPN Latin America Colombia (1080p)
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Premium Sport",ESPN Latin America Colombia
 http://190.61.47.54:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Premium Sport",ESPN 2 Latin America Colombia (1080p)
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Premium Sport",ESPN 2 Latin America Colombia 
 http://190.61.47.54:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="Premium Sport",ESPN Latin America Mexico (1080p)
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="Premium Sport",ESPN Latin America Mexico
 http://168.228.44.241:9997/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Premium Sport",ESPN Deportes HD (720p)
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Premium Sport",ESPN Deportes HD
 http://168.228.44.241:9998/play/a0dz/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Premium Sport",ESPNU HD (720p)
+#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Premium Sport",ESPNU HD
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
+#EXTINF:-1 group-title="Premium Sport" tvg-logo="https://i.imgur.com/zAezIB6.jpeg", ESPN PREMIUM 1
+http://myultratv.com:8080/live/961242461tv/5x3r84x/542.ts
+
+#EXTINF:-1 group-title="Premium Sport" tvg-logo="https://i.imgur.com/zAezIB6.jpeg", ESPN PREMIUM 2
+http://myultratv.com:8080/live/961242461tv/5x3r84x/543.ts
+
+#EXTINF:-1 group-title="Premium Sport" tvg-logo="https://i.imgur.com/zAezIB6.jpeg", ESPN PREMIUM 3
+http://myultratv.com:8080/live/961242461tv/5x3r84x/544.ts
 <============================= SONY SPORT=======================>
 
 
@@ -3808,8 +3852,15 @@ https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 
-<============================Sky Sport======================>
+<============================Tring Sport======================>
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9DCfGky.jpeg" group-title="Premium Sport", TRING SPORT 1
+http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=317&extension=ts&play_token=PtkoPnY9aM
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9DCfGky.jpeg" group-title="Premium Sport", TRING SPORT 2
+http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=318&extension=ts&play_token=m69UQgBILf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9DCfGky.jpeg" group-title="Premium Sport", TRING SPORT 3
+http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=319&extension=ts&play_token=eQetlF7zI6
 
 <================================= SPORT===========================================>
 
@@ -7320,6 +7371,40 @@ http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:BD:C7:0C&stream=825
 
 #EXTINF:-1 group-title="SPORT",VIA PLAY 4K
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C7:08:3E&stream=1157578&extension=ts&play_token=eTs0yzbulu
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MAX_SPORT_1.png" group-title="SPORT",EXYU: MAX SPORT 1
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144536
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/MAX_SPORT_2.png" group-title="SPORT",EXYU: MAX SPORT 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144537
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_1.png" group-title="SPORT",EXYU: SPORT KLUB 1
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144543
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_10.png" group-title="SPORT",EXYU: SPORT KLUB 10
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144544
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_2.png" group-title="SPORT",EXYU: SPORT KLUB 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144545
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_3.png" group-title="SPORT",EXYU: SPORT KLUB 3
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144546
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_4.png" group-title="SPORT",EXYU: SPORT KLUB 4
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144547
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_5.png" group-title="SPORT",EXYU: SPORT KLUB 5
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144548
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_6.png" group-title="SPORT",EXYU: SPORT KLUB 6
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144549
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_7.png" group-title="SPORT",EXYU: SPORT KLUB 7
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144550
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_8.png" group-title="SPORT",EXYU: SPORT KLUB 8
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144551
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_9.png" group-title="SPORT",EXYU: SPORT KLUB 9
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144552
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_ESPORT.png" group-title="SPORT",EXYU: SPORT KLUB ESPORT
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144553
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_FIGHT.png" group-title="SPORT",EXYU: SPORT KLUB FIGHT
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144554
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_GOLF.png" group-title="SPORT",EXYU: SPORT KLUB GOLF
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144555
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_KLUB_HD.png" group-title="SPORT",EXYU: SPORT KLUB HD
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/144556
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="SPORT VIP",PL: CANAL+ SPORT
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/876
