@@ -1574,7 +1574,7 @@ https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia",TV 3
 http://tv.cloudcdn.me:80/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:99:EC:D3
 
-#EXTINF:-1 group-title="🔴MALAYSIA" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/LogoTV9_2006.png/revision/latest?cb=20180922122502",9 TV
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/LogoTV9_2006.png/revision/latest?cb=20180922122502",9 TV
 http://tv.cloudcdn.me:80/live.ts?channelId=93777&uid=10223&deviceMac=00:1A:79:99:EC:D3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",Astro Prima
