@@ -2486,45 +2486,142 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_drama
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/eb206a141647023.62591951c26d4.jpg" tvg-id="itzplay.id" group-title="KOREA",SBS Golf
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1  tvg-logo=https://i.namu.wiki/i/PAMIqOm5a1TdEzCNpHYL7dHbWVaTZvzQNxfz44Mye4k2cpl9oYwmYFf69PgWtSA5fPL5dSaVu9G0_6MotiGDRA.webp" tvg-id="itzplay.id" group-title="KOREA",CATCH ON 1
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show
 
-#EXTINF:-1 tvg-id="Arirang.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png" group-title="KOREA",Arirang (Vision+)
-https://proxy-v.rctiplus.id/live/web/arirang/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-
-#EXTINF:-1 tvg-id="tvNAsia.hk@SD" tvg-logo="https://e7.pngegg.com/pngimages/120/627/png-clipart-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-thumbnail.png" group-title="KOREA",TVN (Vision+)
-https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="KOREA",TvN movies HD (Vision+)
-https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-
 #EXTINF:-1 tvg-id="KBS.World.id" tvg-name="KBS World (HD)" tvg-logo="https://mimipipi22.github.io/logo/international/kbsworld.jpg" group-title="KOREA",KBS WORLD
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-
 #EXTINF:-1 tvg-id="auto.k.drama" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_008/lg_channels/img/channel_logo/default/channel_logo.png" group-title="KOREA",K-DRAMA+
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-
 #EXTINF:-1 tvg-id="auto.new.kmovies" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_009/lg_channels/img/default/channel_logo/channel_logo.png" group-title="KOREA",NEW KMOVIES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7737
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="itzplay.id" tvg-logo=https://i.namu.wiki/i/PAMIqOm5a1TdEzCNpHYL7dHbWVaTZvzQNxfz44Mye4k2cpl9oYwmYFf69PgWtSA5fPL5dSaVu9G0_6MotiGDRA.webp" group-title="KOREA",CATCH ON 1
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Arirang.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png" group-title="KOREA",Arirang (Vision+)
+https://proxy-v.rctiplus.id/live/web/arirang/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-id="tvNAsia.hk@SD" tvg-logo="https://e7.pngegg.com/pngimages/120/627/png-clipart-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-thumbnail.png" group-title="KOREA",TVN (Vision+)
+https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="KOREA",TvN movies HD (Vision+)
+https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
+
+
+<=============================JEPANG===========================>
+
+#EXTINF:-1 tvg-id="JSport1.jp@SD" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Japan",J Sport 1
+http://103.255.250.188:5002/bs18.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="JSport2.jp@SD" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Japan",J Sport 2
+http://103.255.250.188:5002/bs19.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="JSport3.jp@SD" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Japan",J Sport 3
+http://103.255.250.188:5002/bs21.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="JSport4.jp@SD" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Japan",J Sport 4 
+http://103.255.250.188:5002/bs22.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="Baseball.jp@HD" tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Japan",Gaora Sport
+http://103.255.250.188:5002/cs17.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Japan",Cartoon Network (Japan) HD
+http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Japan",Disney Channel (Japan)
+http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="disneyjr.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Japan",Disney JR JP
+http://103.255.250.188:5002/cs23.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="AnimalPlanet.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Japan",Animal Planet JP
+http://103.255.250.188:5002/cs24.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="Animax.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/960px-Animax_logo.svg.png" group-title="Japan",Animax JP
+http://103.255.250.188:5002/bs15.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Japan",NAT GEO JP
+http://103.255.250.188:5002/cs10.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="FishingVision.jp@SD" tvg-logo="https://i.imgur.com/qX6nNOF.png" group-title="Japan",Fishing Vision JP
+http://103.255.250.188:5002/bs25.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-logo="https://i.imgur.com/B2wzA67.png" group-title="Japan",Nihon Eiga Senmon Channel
+http://103.255.250.188:5002/bs23.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="Japan",WOWOW LIVE JP
+http://103.255.250.188:5002/bs20.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://i.imgur.com/APBty36.png" group-title="Japan",Lala TV JP
+http://103.255.250.188:5002/cs19.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="MTV.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="MTV Japan
+http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="CNN.jp@HD" tvg-logo="https://i.imgur.com/Ft6wEdO.png" group-title="Japan",CNN JP
+http://103.255.250.188:5002/cs16.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="BBCNews.jp@HD" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Japan",BBC News JP
+http://103.255.250.188:5002/cs15.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nuPl40Fhlny1YNUaWE_fyNBoMJIqOgu6CEhzQfcvoqoI0=s512-c-k-c0x00ffffff-no-rj" group-title="Japan",Movie Plus JP
+http://103.255.250.188:5002/cs14.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-logo="https://i.imgur.com/sD3z8j7.png" group-title="Japan",Green Channel
+http://103.255.250.188:5002/bs14.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://i.imgur.com/JBePECx.png" group-title="Japan",TABI CHANNEL
+http://103.255.250.188:5002/cs12.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="Japan",WOWOW PRIME
+http://103.255.250.188:5002/bs12.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/960px-TBS_News_2020_logo.png" group-title="Japan",TBS NEWS
+http://103.255.250.188:5002/cs11.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="https://i.imgur.com/W5o98da.png" group-title="Japan",KBS KYOTO
+http://103.255.250.188:5002/bs11.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlZrzRO5kK6fLcuJXjNFaZwk-PoBK02vegcprgqU7nQ&s=10" group-title="Japan",Space shower tv
+http://103.255.250.188:5002/bs26.m3u8?channel=zhongying&gid=bs24&token=guoziyun
+
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1AFOxZHFBvf-eLgADxBaFKa54T5oDOvxEaQfz9VMCU_c=s900-c-k-c0x00ffffff-no-rj" group-title="Japan",Kayo Pops Channel
+http://103.255.250.188:5002/cs13.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="AnimalPlanet.jp@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Next-fujitv_logo.jpg/revision/latest" group-title="Japan",FUJI TV NEXT
+http://103.255.250.188:5002/cs26.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="AnimalPlanet.jp@HD" tvg-logo="https://i.imgur.com/QsTjHDU.jpeg" group-title="Japan",TOEI CHANNEL
+http://103.255.250.188:5002/cs27.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="AnimalPlanet.jp@HD" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg" group-title="Japan",TAKARUZUKA SKY STAGE
+http://103.255.250.188:5002/cs28.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="AnimalPlanet.jp@HD" tvg-logo="https://www.mof.go.jp/english/images/useful_link_thumb05.png" group-title="Japan",Japan29cs
+http://103.255.250.188:5002/cs29.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj" group-title="Japan",EISEI GEKIJO
+http://103.255.250.188:5002/cs22.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://i.imgur.com/mmpjpu2.png" group-title="Japan",Mondo TV
+http://103.255.250.188:5002/cs21.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+
+#EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" tvg-logo="https://i.imgur.com/PCx6Qz3.png" group-title="Japan",Family Gekijo
+http://103.255.250.188:5002/cs20.m3u8?channel=zhongying&gid=cs25&token=guoziyun
 
 <============================== Brunei ======================================>
 
@@ -2533,8 +2630,6 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-
 
 <=================PERSIANA========================>
 
