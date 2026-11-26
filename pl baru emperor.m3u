@@ -1988,19 +1988,64 @@ https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-logo="https://i.ibb.co/Jw0J5fnW/IMG-2509.png" group-title="VIETNAM",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 
-#EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" group-title="VIETNAM",ON Kids (720p)
+#EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" group-title="VIETNAM",ON Kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 
-#EXTINF:-1 tvg-id="ONLife.vn@SD" tvg-logo="https://i.ibb.co/XxtcgQQv/IMG-2513.webp" group-title="VIETNAM",ON Life (720p)
+#EXTINF:-1 tvg-id="ONLife.vn@SD" tvg-logo="https://i.ibb.co/XxtcgQQv/IMG-2513.webp" group-title="VIETNAM",ON Life
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 
-#EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" group-title="VIETNAM",ON Movies (720p)
+#EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" group-title="VIETNAM",ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 
-#EXTINF:-1 tvg-id="ONMusic.vn@SD" tvg-logo="https://i.ibb.co/DHk2gv86/IMG-2524.webp" group-title="VIETNAM",ON Music (1080p)
+#EXTINF:-1 tvg-id="ONMusic.vn@SD" tvg-logo="https://i.ibb.co/DHk2gv86/IMG-2524.webp" group-title="VIETNAM",ON Music
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 
-#EXTINF:-1 tvg-id="ONVieDrama.vn@SD" tvg-logo="https://i.ibb.co/VptvgFVx/IMG-2530.webp" group-title="VIETNAM",ON Vie Drama (720p)
+#EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/ON_Vie_Dramas_logo_29-12-2023.png/revision/latest/scale-to-width-down/985?cb=20260916163704&path-prefix=vi" group-title="VIETNAM",ON Vie Dramas
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+
+#EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab8%20-%20ON%20BiBi.png" group-title="VIETNAM",ON Bibi
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+
+#EXTINF:-1 tvg-id="ONLife.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab5%20-%20ON%20E%20Channel.png" group-title="VIETNAM",ON E Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+
+#EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png" group-title="VIETNAM",ON Vie GiaiTri
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+
+#EXTINF:-1 tvg-id="ONMusic.vn@SD" tvg-logo="https://cdn-images.vtv.vn/2021/9/7/photo-4-1630981226858638199107.jpg" group-title="VIETNAM",ON Phim Viet
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+
+#EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260212/2026021216/qK418FEe0V-on-style.webp&width=320" group-title="VIETNAM",ON Style
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+
+#EXTINF:-1 tvg-id="ONLife.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab17%20-%20ON%20Trending%20TV.png" group-title="VIETNAM",ON Trending Tv
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+
+#EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png" group-title="VIETNAM",ON V Family
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+
+#EXTINF:-1 tvg-id="ONMusic.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab9%20-%20ON%20Info%20TV.png" group-title="VIETNAM",ON Info
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+
+#EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" group-title="VIETNAM",HTV 1
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+
+#EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png" group-title="VIETNAM",HTV 2
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+
+#EXTINF:-1 tvg-id="ONLife.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" group-title="VIETNAM",HTV 3
+https://freem3u.xyz/api/live/play.m3u8?vid=192
+
+#EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp" group-title="VIETNAM",HTV 7
+https://freem3u.xyz/api/live/play.m3u8?vid=193
+
+#EXTINF:-1 tvg-id="ONMusic.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp" group-title="VIETNAM",HTV 9
+https://freem3u.xyz/api/live/play.m3u8?vid=194
+
+#EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="VIETNAM",SCTV 2
+https://freem3u.xyz/api/live/play.m3u8?vid=201
+
+#EXTINF:-1 tvg-id="ONVieDrama.vn@SD" tvg-logo="https://i.ibb.co/VptvgFVx/IMG-2530.webp" group-title="VIETNAM",ON Vie Drama
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 
 #EXTINF:-1 tvg-id="OutdoorChannel.us@Vietnam" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="VIETNAM",Outdoor Channel Vietnam (1080p)
